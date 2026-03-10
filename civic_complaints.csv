@@ -1,0 +1,2001 @@
+complaint_text,category,days_pending,location_type,priority
+Sewage overflow not fixed yet,Drainage,8,Hospital Area,High
+Road sinking problem,Road Damage,5,Market,Medium
+Water logging problem,Drainage,1,Highway,Critical
+Loose electric wires hanging citizens suffering,Electricity,5,School Area,Medium
+Sewage overflow,Drainage,4,School Area,Medium
+Road cracked badly after rain kindly look into this,Road Damage,4,Hospital Area,Medium
+Drain water mixed on road and also Pothole causing accidents very urgent,Drainage,1,School Area,Critical
+No proper water supply dangerous situation,Water Issue,6,Hospital Area,High
+Streetlight not working,Electricity,1,Residential,Low
+Pipeline burst near market not fixed yet,Water Issue,10,Residential,High
+Electric pole sparking and also Garbage scattered everywhere causing problems,Electricity,2,School Area,High
+Waste dumping issue and also Electric pole sparking immediate action needed,Garbage,9,School Area,High
+Water leakage for 9 days and also Road cracked badly after rain causing problems,Water Issue,9,Hospital Area,High
+Power outage for 8 hours dangerous situation,Electricity,8,Residential,High
+Drain cleaning required urgently not fixed yet,Drainage,1,Hospital Area,Low
+Electric pole sparking causing problems,Electricity,6,Market,High
+Dirty water coming from taps and also Sewage overflow kindly look into this,Water Issue,5,Residential,Medium
+Road cracked badly after rain since many days,Road Damage,10,Market,High
+Road cracked badly after rain and also Drain water mixed on road please resolve soon,Road Damage,9,Highway,Critical
+Electric pole sparking since many days,Electricity,9,Highway,Critical
+Pipeline burst near market dangerous situation,Water Issue,5,Residential,High
+Drain blockage for 8 days and also Sewage overflow citizens suffering,Drainage,8,Market,High
+Water leakage for 9 days since many days,Water Issue,9,Highway,Critical
+Road cracked badly after rain,Road Damage,4,Highway,Critical
+Garbage not collected for 5 days very urgent,Garbage,5,Hospital Area,Medium
+Dirty water coming from taps kindly look into this,Water Issue,7,Highway,Critical
+Big pothole near school and also Power outage for {} hours causing problems,Road Damage,1,Hospital Area,Low
+Overflowing dustbins near road immediate action needed,Garbage,1,Hospital Area,Low
+Garbage not collected for 8 days and also Frequent power cuts kindly look into this,Garbage,8,Highway,Critical
+No proper water supply and also Road cracked badly after rain kindly look into this,Water Issue,5,Market,Medium
+Uneven road surface causing problems,Road Damage,9,Residential,High
+Pothole causing accidents please resolve soon,Road Damage,7,Market,Critical
+Drain blockage for 2 days since many days,Drainage,2,Residential,Low
+Big pothole near school,Road Damage,4,Highway,Critical
+Drain cleaning required urgently since many days,Drainage,10,Market,High
+Streetlight not working,Electricity,4,Highway,Critical
+Dirty water coming from taps since many days,Water Issue,2,Residential,Low
+Waste dumping issue,Garbage,8,Highway,Critical
+Dirty water coming from taps dangerous situation,Water Issue,7,Residential,High
+Water logging problem,Drainage,5,Market,Medium
+Water logging problem and also Road cracked badly after rain,Drainage,10,Market,High
+Power outage for 3 hours not fixed yet,Electricity,3,Residential,Low
+Big pothole near school and also Electric pole sparking,Road Damage,2,Highway,Critical
+No proper water supply immediate action needed,Water Issue,5,Highway,Critical
+Streetlight not working please resolve soon,Electricity,6,School Area,Medium
+Electric pole sparking not fixed yet,Electricity,4,Residential,High
+Frequent power cuts,Electricity,5,Hospital Area,Medium
+Streetlight not working dangerous situation,Electricity,2,Hospital Area,High
+Loose electric wires hanging kindly look into this,Electricity,10,Hospital Area,High
+Water logging problem please resolve soon,Drainage,2,Residential,Low
+Road sinking problem,Road Damage,2,Hospital Area,Low
+Waste dumping issue not fixed yet,Garbage,3,Highway,Critical
+Pothole causing accidents,Road Damage,1,Market,Critical
+Uneven road surface immediate action needed,Road Damage,7,Market,High
+Frequent power cuts and also Road cracked badly after rain immediate action needed,Electricity,6,Hospital Area,Medium
+Low water pressure in area immediate action needed,Water Issue,4,Hospital Area,Medium
+Garbage not collected for 3 days very urgent,Garbage,3,Market,Low
+Water logging problem,Drainage,2,Market,Low
+Waste dumping issue causing problems,Garbage,7,Hospital Area,High
+Pipeline burst near market please resolve soon,Water Issue,5,Highway,Critical
+Drain blockage for 9 days and also Pipeline burst near market please resolve soon,Drainage,9,Residential,High
+Water logging problem,Drainage,4,School Area,Medium
+Drain blockage for 5 days and also Big pothole near school,Drainage,5,Hospital Area,Medium
+Pipeline burst near market very urgent,Water Issue,4,Hospital Area,Medium
+Drain blockage for 3 days dangerous situation,Drainage,3,School Area,High
+Sewage overflow not fixed yet,Drainage,1,Hospital Area,Low
+No proper watr supply very urgent,Water Issue,10,Hospital Area,High
+Power outage for 4 hours kindly look into this,Electricity,4,Highway,Critical
+Water logging problem immediate action needed,Drainage,3,Market,Low
+Uneven road surface,Road Damage,3,School Area,Low
+Waste dumping issue since many days,Garbage,3,Highway,Critical
+Dirty water coming from taps and also Water leakage for {} days dangerous situation,Water Issue,2,Residential,High
+Garbage scattered everywhere immediate action needed,Garbage,9,School Area,High
+No proper water supply since many days,Water Issue,8,School Area,High
+Frequent power cuts very urgent,Electricity,6,Hospital Area,Medium
+Garbage not collected for 9 days and also Loose electric wires hanging since many days,Garbage,9,Market,High
+Low water pressure in area please resolve soon,Water Issue,10,Residential,High
+Loose electric wires hanging causing problems,Electricity,2,Highway,Critical
+Loose electric wires hanging and also Road cracked badly after rain very urgent,Electricity,2,Highway,Critical
+Road sinking problem and also Power outage for {} hours causing problems,Road Damage,1,Market,Low
+Bad smell due to garbage and also Drain cleaning required urgently dangerous situation,Garbage,10,Market,High
+Power outage for 3 hours and also Road sinking problem,Electricity,3,Residential,Low
+Electric pole sparking,Electricity,1,Residential,High
+Pothole causing accidents please resolve soon,Road Damage,5,Highway,Critical
+Drain cleaning required urgently,Drainage,10,Residential,High
+No proper water supply not fixed yet,Water Issue,8,Residential,High
+Pipeline burst near market kindly look into this,Water Issue,9,Residential,High
+Sewage overflow,Drainage,10,Highway,Critical
+Electric pole sparking and also Dirty water coming from taps since many days,Electricity,2,Market,High
+Water logging problem please resolve soon,Drainage,9,Market,High
+Loose electric wires hanging immediate action needed,Electricity,4,Residential,Medium
+Road sinking problem immediate action needed,Road Damage,5,Highway,Critical
+Waste dumping issue not fixed yet,Garbage,6,Hospital Area,Medium
+Road sinking problem and also Drain cleaning required urgently immediate action needed,Road Damage,6,School Area,Medium
+Bad smell due to garbage,Garbage,8,Highway,Critical
+Electric pole sparking citizens suffering,Electricity,3,Highway,Critical
+Loose electric wires hanging,Electricity,5,Residential,Medium
+Sewage overflow kindly look into this,Drainage,9,Hospital Area,High
+Road cracked badly after rain,Road Damage,9,Market,High
+Big pothole near school,Road Damage,6,Hospital Area,Medium
+Road cracked badly after rain please resolve soon,Road Damage,8,Residential,High
+Drain blockage for 9 days kindly look into this,Drainage,9,Highway,Critical
+Pipeline burst near market kindly look into this,Water Issue,2,Highway,Critical
+Big pothole near school and also Streetlight not working citizens suffering,Road Damage,10,Hospital Area,High
+Garbage scattered everywhere please resolve soon,Garbage,10,School Area,High
+Streetlight not working and also Overflowing dustbins near road kindly look into this,Electricity,3,Highway,Critical
+Drain water mixed on road,Drainage,4,Market,Medium
+Uneven road surface,Road Damage,1,Highway,Critical
+Frequent power cuts,Electricity,6,Highway,Critical
+Garbage scattered everywhere,Garbage,1,Market,Low
+Power outage for 3 hours and also Sewage overflow citizens suffering,Electricity,3,Residential,Low
+Road cracked badly after rain not fixed yet,Road Damage,1,Highway,Critical
+Big pothole near school and also Uneven road surface,Road Damage,1,Market,Low
+Big pothole near school citizens suffering,Road Damage,8,School Area,High
+Waste dumping issue immediate action needed,Garbage,2,Highway,Critical
+Bad smell due to garbage,Garbage,2,Highway,Critical
+Drain water mixed on road please resolve soon,Drainage,4,Residential,Medium
+Pipeline burst near market,Water Issue,3,Market,Low
+Garbage scattered everywhere,Garbage,8,Hospital Area,High
+Uneven road surface since many days,Road Damage,6,School Area,Medium
+Uneven raod surface citizens suffering,Road Damage,10,Highway,Critical
+Water logging problem,Drainage,6,Hospital Area,Medium
+Electric pole sparking immediate action needed,Electricity,9,Highway,Critical
+Dirty water coming from taps,Water Issue,1,Hospital Area,Low
+Water leakage for 9 days and also Road cracked badly after rain citizens suffering,Water Issue,9,Market,High
+Streetlight not working,Electricity,5,School Area,Medium
+No proper water supply please resolve soon,Water Issue,7,Market,High
+Water logging problem immediate action needed,Drainage,3,Residential,Low
+Low water pressure in area and also Bad smell due to garbage,Water Issue,6,Highway,Critical
+Streetlight not working and also Drain cleaning required urgently,Electricity,7,Hospital Area,High
+Bad smell due to garbage please resolve soon,Garbage,3,Residential,Low
+Road cracked badly after rain and also Sewage overflow causing problems,Road Damage,8,Highway,Critical
+Road sinking problem,Road Damage,2,Market,Low
+Drain water mixed on road dangerous situation,Drainage,1,Highway,Critical
+Drain water mixed on road dangerous situation,Drainage,3,Highway,Critical
+Drain cleaning required urgently and also Drain cleaning required urgently not fixed yet,Drainage,8,Market,High
+Low watr pressure in area and also Garbage not collected for {} days not fixed yet,Water Issue,9,Highway,Critical
+Big pothole near school and also Electric pole sparking immediate action needed,Road Damage,4,Market,High
+Bad smell due to garbage not fixed yet,Garbage,1,Market,Low
+Overflowing dustbins near road dangerous situation,Garbage,7,Residential,High
+Power outage for 8 hours and also Pothole causing accidents please resolve soon,Electricity,8,Market,Critical
+Road cracked badly after rain and also Bad smell due to garbage citizens suffering,Road Damage,8,Hospital Area,High
+Electric pole sparking very urgent,Electricity,9,Residential,High
+Water leakage for 9 days since many days,Water Issue,9,Market,High
+Road cracked badly after rain dangerous situation,Road Damage,10,Highway,Critical
+Drain blockage for 8 days citizens suffering,Drainage,8,School Area,High
+Waste dumping issue and also Sewage overflow,Garbage,3,Hospital Area,Low
+Road sinking problem,Road Damage,10,Highway,Critical
+Road cracked badly after rain since many days,Road Damage,5,School Area,Medium
+Loose electric wires hanging please resolve soon,Electricity,8,School Area,High
+Pipeline burst near market,Water Issue,7,Hospital Area,High
+Low watr pressure in area,Water Issue,8,School Area,High
+Water leakage for 1 days immediate action needed,Water Issue,1,Residential,Low
+Frequent power cuts immediate action needed,Electricity,8,Market,High
+Drain water mixed on road and also Uneven road surface,Drainage,3,School Area,Low
+Low watr pressure in area causing problems,Water Issue,4,Highway,Critical
+Drain cleaning required urgently and also Garbage not collected for {} days causing problems,Drainage,8,School Area,High
+No proper water supply,Water Issue,8,Market,High
+Overflowing dustbins near raod,Garbage,8,Market,High
+Bad smell due to garbage citizens suffering,Garbage,7,Residential,High
+Low water pressure in area immediate action needed,Water Issue,5,Residential,Medium
+Sewage overflow and also Bad smell due to garbage kindly look into this,Drainage,2,Residential,Low
+Bad smell due to garbage,Garbage,6,Residential,Medium
+Water leakage for 2 days,Water Issue,2,Residential,Low
+Pipeline burst near market please resolve soon,Water Issue,4,Market,Medium
+Big pothole near school dangerous situation,Road Damage,1,Hospital Area,High
+Uneven road surface and also Drain blockage for {} days very urgent,Road Damage,1,School Area,Low
+Streetlight not working,Electricity,5,School Area,Medium
+Loose electric wires hanging please resolve soon,Electricity,4,School Area,Medium
+Low water pressure in area,Water Issue,6,Residential,Medium
+Electric pole sparking please resolve soon,Electricity,6,Hospital Area,High
+No proper water supply and also No proper water supply not fixed yet,Water Issue,6,Market,Medium
+Dirty water coming from taps very urgent,Water Issue,9,Market,High
+Garbage not collected for 3 days and also Road cracked badly after rain please resolve soon,Garbage,3,Residential,Low
+Overflowing dustbins near raod very urgent,Garbage,2,Highway,Critical
+Frequent power cuts immediate action needed,Electricity,6,Highway,Critical
+Dirty water coming from taps and also Garbage not collected for {} days please resolve soon,Water Issue,3,Residential,Low
+Power outage for 2 hours immediate action needed,Electricity,2,Highway,Critical
+Dirty water coming from taps,Water Issue,10,Highway,Critical
+Bad smell due to garbage,Garbage,10,Residential,High
+Electric pole sparking and also Power outage for {} hours dangerous situation,Electricity,8,Residential,High
+Drain cleaning required urgently and also Electric pole sparking citizens suffering,Drainage,8,Highway,Critical
+Power outage for 2 hours and also Dirty water coming from taps not fixed yet,Electricity,2,Highway,Critical
+Dirty water coming from taps and also Electric pole sparking kindly look into this,Water Issue,1,Residential,High
+Low water pressure in area causing problems,Water Issue,10,Highway,Critical
+Loose electric wires hanging causing problems,Electricity,4,Market,Medium
+Overflowing dustbins near road dangerous situation,Garbage,9,Highway,Critical
+Garbage not collected for 4 days immediate action needed,Garbage,4,Hospital Area,Medium
+Power outage for 8 hours dangerous situation,Electricity,8,Hospital Area,High
+Frequent power cuts citizens suffering,Electricity,2,Residential,Low
+Pipeline burst near market since many days,Water Issue,2,Residential,Low
+Frequent power cuts immediate action needed,Electricity,2,Hospital Area,Low
+Road sinking problem dangerous situation,Road Damage,2,Residential,High
+Water leakage for 6 days and also Electric pole sparking,Water Issue,6,School Area,High
+Bad smell due to garbage,Garbage,3,Residential,Low
+Dirty watr coming from taps,Water Issue,4,School Area,Medium
+No proper water supply immediate action needed,Water Issue,2,School Area,Low
+Drain watr mixed on road citizens suffering,Drainage,7,Highway,Critical
+Pipeline burst near market and also Dirty water coming from taps citizens suffering,Water Issue,6,School Area,Medium
+Loose electric wires hanging please resolve soon,Electricity,1,Highway,Critical
+Drain cleaning required urgently since many days,Drainage,2,School Area,Low
+Water logging problem and also Loose electric wires hanging,Drainage,8,School Area,High
+Drain water mixed on road,Drainage,9,Highway,Critical
+Road cracked badly after rain dangerous situation,Road Damage,1,Residential,High
+Water logging problem causing problems,Drainage,7,Residential,High
+Garbage not collected for 5 days since many days,Garbage,5,Market,Medium
+Sewage overflow and also Drain blockage for {} days,Drainage,5,Hospital Area,Medium
+Sewage overflow and also Road sinking problem not fixed yet,Drainage,7,Residential,High
+Uneven road surface very urgent,Road Damage,5,Residential,Medium
+Low water pressure in area immediate action needed,Water Issue,3,Market,Low
+Drain blockage for 2 days very urgent,Drainage,2,Hospital Area,Low
+Road cracked badly after rain since many days,Road Damage,7,Residential,High
+Drain blockage for 9 days not fixed yet,Drainage,9,Highway,Critical
+Water logging problem kindly look into this,Drainage,5,Highway,Critical
+Drain blockage for 6 days citizens suffering,Drainage,6,Market,Medium
+Bad smell due to garbage and also No proper watr supply citizens suffering,Garbage,3,School Area,Low
+Garbage not collected for 2 days citizens suffering,Garbage,2,Hospital Area,Low
+Dirty water coming from taps please resolve soon,Water Issue,5,Residential,Medium
+Water logging problem very urgent,Drainage,7,Highway,Critical
+Water logging problem causing problems,Drainage,7,Market,High
+Uneven road surface,Road Damage,5,Residential,Medium
+Dirty water coming from taps since many days,Water Issue,1,Residential,Low
+Drain watr mixed on road since many days,Drainage,7,School Area,High
+Water leakage for 5 days and also No proper water supply,Water Issue,5,Market,Medium
+Dirty water coming from taps citizens suffering,Water Issue,3,Residential,Low
+Dirty water coming from taps citizens suffering,Water Issue,9,Residential,High
+Streetlight not working since many days,Electricity,7,Market,High
+Garbage not collected for 5 days not fixed yet,Garbage,5,Hospital Area,Medium
+Low water pressure in area and also Low water pressure in area immediate action needed,Water Issue,1,Highway,Critical
+No proper water supply causing problems,Water Issue,6,Residential,Medium
+Waste dumping issue,Garbage,3,Market,Low
+Water logging problem,Drainage,6,Market,Medium
+Road cracked badly after rain since many days,Road Damage,1,Hospital Area,Low
+Sewage overflow,Drainage,9,Highway,Critical
+Uneven road surface please resolve soon,Road Damage,6,Market,Medium
+Garbage not collected for 4 days citizens suffering,Garbage,4,Hospital Area,Medium
+No proper water supply and also Water logging problem since many days,Water Issue,10,Highway,Critical
+Bad smell due to garbage dangerous situation,Garbage,4,School Area,High
+Road cracked badly after rain very urgent,Road Damage,9,Hospital Area,High
+Uneven road surface,Road Damage,6,Market,Medium
+Road cracked badly after rain please resolve soon,Road Damage,3,Market,Low
+Overflowing dustbins near raod,Garbage,4,Market,Medium
+Low water pressure in area causing problems,Water Issue,6,School Area,Medium
+Loose electric wires hanging,Electricity,2,Highway,Critical
+Pothole causing accidents kindly look into this,Road Damage,8,Hospital Area,Critical
+Power outage for 10 hours,Electricity,10,Hospital Area,High
+Low water pressure in area very urgent,Water Issue,2,School Area,Low
+Road sinking problem and also Dirty water coming from taps not fixed yet,Road Damage,8,Residential,High
+Power outage for 10 hours and also Water logging problem not fixed yet,Electricity,10,Hospital Area,High
+Drain blockage for 2 days citizens suffering,Drainage,2,Highway,Critical
+Garbage not collected for 3 days causing problems,Garbage,3,Hospital Area,Low
+Drain cleaning required urgently,Drainage,10,School Area,High
+Garbage not collected for 7 days and also Pipeline burst near market since many days,Garbage,7,Hospital Area,High
+Frequent power cuts since many days,Electricity,2,Highway,Critical
+Garbage not collected for 1 days kindly look into this,Garbage,1,Market,Low
+Road sinking problem and also Water leakage for {} days immediate action needed,Road Damage,1,School Area,Low
+Water logging problem immediate action needed,Drainage,5,Residential,Medium
+Low water pressure in area not fixed yet,Water Issue,1,Market,Low
+Big pothole near school,Road Damage,9,Hospital Area,High
+Dirty watr coming from taps please resolve soon,Water Issue,3,School Area,Low
+Drain cleaning required urgently please resolve soon,Drainage,5,Residential,Medium
+Pothole causing accidents and also Water logging problem,Road Damage,5,Highway,Critical
+Electric pole sparking causing problems,Electricity,7,Residential,High
+Road sinking problem,Road Damage,10,Residential,High
+Pipeline burst near market,Water Issue,10,Highway,Critical
+Drain blockage for 2 days,Drainage,2,Residential,Low
+Garbage scattered everywhere and also Uneven road surface immediate action needed,Garbage,3,Residential,Low
+Garbage scattered everywhere,Garbage,4,Hospital Area,Medium
+Streetlight not working very urgent,Electricity,5,Market,Medium
+Pothole causing accidents kindly look into this,Road Damage,6,Highway,Critical
+Drain blockage for 10 days not fixed yet,Drainage,10,Hospital Area,High
+Garbage scattered everywhere since many days,Garbage,7,School Area,High
+Frequent power cuts and also Power outage for {} hours dangerous situation,Electricity,3,Hospital Area,High
+Water leakage for 3 days and also Garbage not collected for {} days not fixed yet,Water Issue,3,Hospital Area,Low
+Road cracked badly after rain,Road Damage,10,Market,High
+Bad smell due to garbage immediate action needed,Garbage,10,Hospital Area,High
+Low water pressure in area please resolve soon,Water Issue,9,Highway,Critical
+Low water pressure in area please resolve soon,Water Issue,5,Residential,Medium
+Loose electric wires hanging since many days,Electricity,4,Highway,Critical
+Bad smell due to garbage,Garbage,2,Market,Low
+Big pothole near school,Road Damage,1,Market,Low
+Uneven road surface citizens suffering,Road Damage,8,Hospital Area,High
+Road sinking problem since many days,Road Damage,1,Highway,Critical
+Water leakage for 2 days not fixed yet,Water Issue,2,Hospital Area,Low
+No proper water supply citizens suffering,Water Issue,5,Highway,Critical
+Overflowing dustbins near raod since many days,Garbage,4,Residential,Medium
+Garbage scattered everywhere,Garbage,8,School Area,High
+Pipeline burst near market and also Waste dumping issue citizens suffering,Water Issue,2,Hospital Area,Low
+Low water pressure in area dangerous situation,Water Issue,3,Hospital Area,High
+Garbage not collected for 6 days and also Loose electric wires hanging,Garbage,6,School Area,Medium
+Drain water mixed on road immediate action needed,Drainage,1,Residential,Low
+Garbage not collected for 9 days citizens suffering,Garbage,9,Market,High
+Bad smell due to garbage kindly look into this,Garbage,8,Residential,High
+Electric pole sparking very urgent,Electricity,6,Residential,High
+Electric pole sparking and also Low water pressure in area immediate action needed,Electricity,9,School Area,High
+Drain water mixed on road immediate action needed,Drainage,2,School Area,Low
+No proper water supply since many days,Water Issue,1,Hospital Area,Low
+Pipeline burst near market and also Drain blockage for {} days citizens suffering,Water Issue,2,Hospital Area,Low
+Overflowing dustbins near road and also Waste dumping issue causing problems,Garbage,5,Residential,Medium
+Pothole causing accidents and also Water logging problem,Road Damage,8,School Area,Critical
+Overflowing dustbins near road,Garbage,10,Residential,High
+Drain blockage for 4 days and also Road cracked badly after rain very urgent,Drainage,4,School Area,Medium
+Big pothole near school and also Waste dumping issue,Road Damage,5,Residential,Medium
+Electric pole sparking,Electricity,4,Market,High
+Pothole causing accidents,Road Damage,1,Hospital Area,Critical
+Streetlight not working,Electricity,7,Hospital Area,High
+Drain water mixed on road and also Water leakage for {} days kindly look into this,Drainage,2,Market,Low
+Pothole causing accidents,Road Damage,10,Residential,Critical
+Pipeline burst near market kindly look into this,Water Issue,5,Residential,Medium
+Drain water mixed on road please resolve soon,Drainage,10,Market,High
+Electric pole sparking not fixed yet,Electricity,1,Residential,High
+Road cracked badly after rain immediate action needed,Road Damage,10,Market,High
+Frequent power cuts citizens suffering,Electricity,8,Market,High
+Garbage not collected for 10 days and also Electric pole sparking,Garbage,10,Market,High
+Streetlight not working,Electricity,2,School Area,Low
+Sewage overflow and also Waste dumping issue kindly look into this,Drainage,4,Highway,Critical
+No proper water supply immediate action needed,Water Issue,7,School Area,High
+No proper water supply very urgent,Water Issue,5,Hospital Area,Medium
+Uneven road surface very urgent,Road Damage,10,Highway,Critical
+Waste dumping issue since many days,Garbage,9,Highway,Critical
+Dirty water coming from taps and also Overflowing dustbins near road dangerous situation,Water Issue,6,Residential,High
+Road cracked badly after rain kindly look into this,Road Damage,6,School Area,Medium
+No proper water supply and also Low water pressure in area very urgent,Water Issue,10,School Area,High
+Loose electric wires hanging citizens suffering,Electricity,8,Market,High
+Waste dumping issue and also Water logging problem please resolve soon,Garbage,8,School Area,High
+Pipeline burst near market and also Electric pole sparking citizens suffering,Water Issue,5,Market,High
+Uneven road surface and also Road sinking problem,Road Damage,4,Hospital Area,Medium
+Big pothole near school and also Big pothole near school,Road Damage,3,Residential,Low
+Water logging problem citizens suffering,Drainage,9,Residential,High
+Drain blockage for 9 days dangerous situation,Drainage,9,School Area,High
+Loose electric wires hanging,Electricity,3,School Area,Low
+Road sinking problem causing problems,Road Damage,8,Hospital Area,High
+Garbage scattered everywhere and also Big pothole near school,Garbage,6,Highway,Critical
+Uneven road surface kindly look into this,Road Damage,1,Market,Low
+Electric pole sparking dangerous situation,Electricity,2,Hospital Area,High
+Pothole causing accidents and also Road sinking problem immediate action needed,Road Damage,1,School Area,Critical
+Garbage not collected for 8 days not fixed yet,Garbage,8,Residential,High
+Road sinking problem not fixed yet,Road Damage,6,Highway,Critical
+Garbage not collected for 8 days and also Frequent power cuts very urgent,Garbage,8,Highway,Critical
+Electric pole sparking and also Uneven raod surface immediate action needed,Electricity,8,Highway,Critical
+Dirty water coming from taps,Water Issue,8,Residential,High
+Dirty water coming from taps and also Pipeline burst near market not fixed yet,Water Issue,10,Highway,Critical
+Power outage for 3 hours citizens suffering,Electricity,3,Highway,Critical
+Streetlight not working and also Power outage for {} hours dangerous situation,Electricity,1,Residential,High
+Overflowing dustbins near road dangerous situation,Garbage,3,School Area,High
+Water leakage for 10 days citizens suffering,Water Issue,10,Residential,High
+Garbage scattered everywhere not fixed yet,Garbage,3,Highway,Critical
+Low water pressure in area not fixed yet,Water Issue,1,Highway,Critical
+Drain watr mixed on road,Drainage,2,Hospital Area,Low
+Road cracked badly after rain,Road Damage,6,Market,Medium
+Low water pressure in area not fixed yet,Water Issue,10,Highway,Critical
+Garbage not collected for 8 days causing problems,Garbage,8,Market,High
+Pothole causing accidents and also Water logging problem,Road Damage,4,School Area,Critical
+Pipeline burst near market and also No proper water supply,Water Issue,2,School Area,Low
+Low water pressure in area,Water Issue,8,Market,High
+Big pothole near school,Road Damage,10,School Area,High
+Water logging problem and also No proper water supply causing problems,Drainage,7,Hospital Area,High
+No proper water supply,Water Issue,8,Market,High
+Waste dumping issue kindly look into this,Garbage,7,Hospital Area,High
+Dirty water coming from taps,Water Issue,5,Residential,Medium
+No proper water supply since many days,Water Issue,5,Residential,Medium
+Low water pressure in area kindly look into this,Water Issue,1,Highway,Critical
+Power outage for 3 hours citizens suffering,Electricity,3,Highway,Critical
+Drain watr mixed on road since many days,Drainage,2,Market,Low
+Bad smell due to garbage very urgent,Garbage,7,Hospital Area,High
+Waste dumping issue since many days,Garbage,5,Residential,Medium
+Dirty water coming from taps,Water Issue,2,School Area,Low
+Garbage scattered everywhere,Garbage,4,Hospital Area,Medium
+Garbage not collected for 5 days and also Drain blockage for {} days very urgent,Garbage,5,Market,Medium
+Frequent power cuts and also Dirty water coming from taps very urgent,Electricity,4,Market,Medium
+Water logging problem and also Drain cleaning required urgently dangerous situation,Drainage,10,School Area,High
+Water logging problem immediate action needed,Drainage,10,Residential,High
+Dirty water coming from taps,Water Issue,9,Highway,Critical
+No proper watr supply,Water Issue,1,Hospital Area,Low
+Bad smell due to garbage not fixed yet,Garbage,2,Residential,Low
+Uneven road surface please resolve soon,Road Damage,4,School Area,Medium
+Power outage for 5 hours,Electricity,5,Market,Medium
+Garbage scattered everywhere since many days,Garbage,2,Highway,Critical
+Water leakage for 6 days immediate action needed,Water Issue,6,Hospital Area,Medium
+Garbage scattered everywhere,Garbage,4,Residential,Medium
+Bad smell due to garbage citizens suffering,Garbage,8,Residential,High
+Drain blockage for 9 days,Drainage,9,Highway,Critical
+Low water pressure in area please resolve soon,Water Issue,2,Hospital Area,Low
+Frequent power cuts and also Loose eletric wires hanging,Electricity,1,Residential,Low
+Drain blockage for 7 days kindly look into this,Drainage,7,Hospital Area,High
+Electric pole sparking and also Sewage overflow immediate action needed,Electricity,10,Market,High
+Road sinking problem,Road Damage,2,Hospital Area,Low
+Frequent power cuts,Electricity,3,Highway,Critical
+Frequent power cuts,Electricity,3,Residential,Low
+Pothole causing accidents,Road Damage,1,Residential,Critical
+Water logging problem,Drainage,4,Market,Medium
+Electric pole sparking very urgent,Electricity,5,Residential,High
+Uneven road surface,Road Damage,6,Highway,Critical
+Uneven road surface causing problems,Road Damage,8,Hospital Area,High
+Water logging problem,Drainage,3,Market,Low
+Drain watr mixed on road,Drainage,4,Hospital Area,Medium
+Loose electric wires hanging not fixed yet,Electricity,2,Highway,Critical
+Road sinking problem citizens suffering,Road Damage,3,Hospital Area,Low
+Dirty water coming from taps dangerous situation,Water Issue,5,Highway,Critical
+Pipeline burst near market causing problems,Water Issue,4,Residential,Medium
+Pipeline burst near market dangerous situation,Water Issue,2,Highway,Critical
+Loose eletric wires hanging since many days,Electricity,9,Residential,High
+Loose electric wires hanging kindly look into this,Electricity,8,Highway,Critical
+Bad smell due to garbage,Garbage,9,Highway,Critical
+Electric pole sparking,Electricity,7,Market,High
+Garbage not collected for 9 days kindly look into this,Garbage,9,Market,High
+Waste dumping issue please resolve soon,Garbage,1,Highway,Critical
+Waste dumping issue dangerous situation,Garbage,2,Highway,Critical
+Sewage overflow,Drainage,6,Market,Medium
+Waste dumping issue,Garbage,6,Highway,Critical
+Bad smell due to garbge,Garbage,8,Highway,Critical
+Waste dumping issue,Garbage,8,Hospital Area,High
+Road sinking problem very urgent,Road Damage,10,Highway,Critical
+Electric pole sparking please resolve soon,Electricity,9,Residential,High
+Water leakage for 4 days citizens suffering,Water Issue,4,Market,Medium
+Drain water mixed on road since many days,Drainage,2,Market,Low
+Sewage overflow please resolve soon,Drainage,7,Residential,High
+Uneven road surface very urgent,Road Damage,8,Hospital Area,High
+Garbage not collected for 1 days causing problems,Garbage,1,Residential,Low
+Road sinking problem immediate action needed,Road Damage,4,Highway,Critical
+Loose electric wires hanging citizens suffering,Electricity,5,School Area,Medium
+Big pothole near school and also Streetlight not working,Road Damage,7,School Area,High
+Garbage not collected for 10 days citizens suffering,Garbage,10,School Area,High
+Dirty watr coming from taps and also Drain cleaning required urgently causing problems,Water Issue,2,School Area,Low
+Pothole causing accidents and also Dirty water coming from taps causing problems,Road Damage,2,Residential,Critical
+Pipeline burst near market,Water Issue,1,Market,Low
+No proper water supply citizens suffering,Water Issue,4,Market,Medium
+Drain water mixed on road,Drainage,4,Highway,Critical
+Frequent power cuts since many days,Electricity,3,Hospital Area,Low
+Bad smell due to garbage not fixed yet,Garbage,6,School Area,Medium
+Overflowing dustbins near road immediate action needed,Garbage,2,School Area,Low
+Low water pressure in area please resolve soon,Water Issue,7,Highway,Critical
+Garbage scattered everywhere,Garbage,6,Hospital Area,Medium
+Frequent power cuts dangerous situation,Electricity,5,Residential,High
+Big pothole near school since many days,Road Damage,1,Market,Low
+Water logging problem,Drainage,7,Market,High
+Drain water mixed on road and also No proper water supply dangerous situation,Drainage,9,School Area,High
+Water leakage for 3 days and also Drain cleaning required urgently,Water Issue,3,School Area,Low
+Water logging problem dangerous situation,Drainage,9,Market,High
+Water leakage for 10 days kindly look into this,Water Issue,10,Hospital Area,High
+Overflowing dustbins near road please resolve soon,Garbage,8,Market,High
+Water logging problem,Drainage,2,Highway,Critical
+No proper watr supply not fixed yet,Water Issue,1,Hospital Area,Low
+Drain blockage for 6 days,Drainage,6,Hospital Area,Medium
+Sewage overflow please resolve soon,Drainage,2,School Area,Low
+Sewage overflow and also No proper water supply not fixed yet,Drainage,1,Highway,Critical
+Electric pole sparking not fixed yet,Electricity,10,Market,High
+Drain water mixed on road very urgent,Drainage,8,School Area,High
+Water logging problem please resolve soon,Drainage,8,Residential,High
+Power outage for 9 hours,Electricity,9,Market,High
+Pipeline burst near market citizens suffering,Water Issue,5,School Area,Medium
+Uneven road surface immediate action needed,Road Damage,7,Market,High
+Waste dumping issue immediate action needed,Garbage,4,Market,Medium
+Drain cleaning required urgently kindly look into this,Drainage,7,Hospital Area,High
+Streetlight not working dangerous situation,Electricity,4,Market,High
+Overflowing dustbins near road please resolve soon,Garbage,8,Residential,High
+Loose electric wires hanging causing problems,Electricity,2,Hospital Area,Low
+Drain watr mixed on road dangerous situation,Drainage,10,School Area,High
+Streetlight not working causing problems,Electricity,9,Highway,Critical
+Frequent power cuts,Electricity,1,Hospital Area,Low
+Garbage scattered everywhere and also Water leakage for {} days not fixed yet,Garbage,6,Market,Medium
+Water logging problem and also Low water pressure in area kindly look into this,Drainage,8,Residential,High
+Drain water mixed on road and also Low water pressure in area not fixed yet,Drainage,7,Residential,High
+Electric pole sparking dangerous situation,Electricity,2,School Area,High
+Big pothole near school dangerous situation,Road Damage,4,Hospital Area,High
+Road sinking problem,Road Damage,3,Market,Low
+Road sinking problem,Road Damage,2,Highway,Critical
+Pipeline burst near market,Water Issue,3,Market,Low
+Pipeline burst near market,Water Issue,2,School Area,Low
+Big pothole near school very urgent,Road Damage,1,Highway,Critical
+Drain blockage for 6 days kindly look into this,Drainage,6,Market,Medium
+Streetlight not working not fixed yet,Electricity,7,School Area,High
+Frequent power cuts citizens suffering,Electricity,6,Highway,Critical
+Sewage overflow,Drainage,7,Market,High
+Big pothole near school please resolve soon,Road Damage,9,School Area,High
+Frequent power cuts very urgent,Electricity,6,Market,Medium
+Dirty watr coming from taps,Water Issue,6,School Area,Medium
+Pothole causing accidents kindly look into this,Road Damage,8,Market,Critical
+Garbage scattered everywhere dangerous situation,Garbage,10,Hospital Area,High
+Bad smell due to garbge,Garbage,2,Residential,Low
+Drain blockage for 1 days not fixed yet,Drainage,1,School Area,Low
+Low water pressure in area and also No proper water supply dangerous situation,Water Issue,4,Hospital Area,High
+Road cracked badly after rain and also Road sinking problem causing problems,Road Damage,10,School Area,High
+Frequent power cuts,Electricity,10,Residential,High
+Big pothole near school and also Bad smell due to garbage,Road Damage,8,School Area,High
+Drain blockage for 4 days dangerous situation,Drainage,4,Highway,Critical
+Waste dumping issue very urgent,Garbage,5,Hospital Area,Medium
+Bad smell due to garbage please resolve soon,Garbage,4,Highway,Critical
+Streetlight not working please resolve soon,Electricity,4,School Area,Medium
+Waste dumping issue causing problems,Garbage,6,Residential,Medium
+Pothole causing accidents and also Power outage for {} hours causing problems,Road Damage,3,Highway,Critical
+Waste dumping issue very urgent,Garbage,10,Residential,High
+Pipeline burst near market causing problems,Water Issue,2,Market,Low
+Uneven road surface dangerous situation,Road Damage,4,Residential,High
+Frequent power cuts dangerous situation,Electricity,6,Hospital Area,High
+Uneven road surface,Road Damage,10,Residential,High
+Overflowing dustbins near raod,Garbage,7,School Area,High
+Low water pressure in area,Water Issue,1,Hospital Area,Low
+No proper water supply dangerous situation,Water Issue,10,Residential,High
+Road sinking problem causing problems,Road Damage,5,Market,Medium
+Power outage for 3 hours citizens suffering,Electricity,3,Hospital Area,Low
+Drain blockage for 8 days,Drainage,8,Hospital Area,High
+Electric pole sparking and also Big pothole near school please resolve soon,Electricity,9,Highway,Critical
+Road cracked badly after rain dangerous situation,Road Damage,6,Highway,Critical
+Drain water mixed on road,Drainage,10,School Area,High
+Drain cleaning required urgently not fixed yet,Drainage,3,Market,Low
+No proper water supply kindly look into this,Water Issue,9,Highway,Critical
+Garbage scattered everywhere,Garbage,9,Residential,High
+Loose electric wires hanging and also Drain cleaning required urgently dangerous situation,Electricity,7,Highway,Critical
+Pipeline burst near market please resolve soon,Water Issue,2,School Area,Low
+Water leakage for 7 days and also Road cracked badly after rain please resolve soon,Water Issue,7,Market,High
+Overflowing dustbins near road dangerous situation,Garbage,9,Market,High
+Garbage not collected for 7 days and also No proper water supply since many days,Garbage,7,Residential,High
+Garbage scattered everywhere and also Pothole causing accidents please resolve soon,Garbage,10,School Area,Critical
+Power outage for 2 hours and also Dirty watr coming from taps very urgent,Electricity,2,Highway,Critical
+Pothole causing accidents and also Sewage overflow since many days,Road Damage,1,Market,Critical
+Drain cleaning required urgently and also No proper water supply causing problems,Drainage,9,Residential,High
+Bad smell due to garbage causing problems,Garbage,6,School Area,Medium
+Uneven road surface kindly look into this,Road Damage,7,Market,High
+Power outage for 10 hours causing problems,Electricity,10,Residential,High
+Pothole causing accidents immediate action needed,Road Damage,1,Market,Critical
+Garbage scattered everywhere and also Bad smell due to garbage causing problems,Garbage,2,Residential,Low
+Loose electric wires hanging not fixed yet,Electricity,9,Highway,Critical
+Streetlight not working and also Waste dumping issue kindly look into this,Electricity,4,Highway,Critical
+Pothole causing accidents and also Dirty watr coming from taps,Road Damage,5,School Area,Critical
+Low water pressure in area since many days,Water Issue,7,Residential,High
+Electric pole sparking,Electricity,2,Hospital Area,High
+Power outage for 2 hours dangerous situation,Electricity,2,Hospital Area,High
+Drain blockage for 6 days since many days,Drainage,6,School Area,Medium
+Streetlight not working immediate action needed,Electricity,7,Market,High
+Sewage overflow and also Pothole causing accidents causing problems,Drainage,2,Highway,Critical
+Power outage for 8 hours and also Loose electric wires hanging,Electricity,8,Hospital Area,High
+Waste dumping issue not fixed yet,Garbage,7,School Area,High
+Low water pressure in area kindly look into this,Water Issue,4,School Area,Medium
+Overflowing dustbins near road very urgent,Garbage,1,Market,Low
+Drain cleaning required urgently not fixed yet,Drainage,10,Highway,Critical
+Dirty water coming from taps and also Road sinking problem,Water Issue,2,Highway,Critical
+Garbage scattered everywhere very urgent,Garbage,6,Residential,Medium
+Overflowing dustbins near road,Garbage,3,Market,Low
+Big pothole near school kindly look into this,Road Damage,6,Highway,Critical
+Drain water mixed on road dangerous situation,Drainage,10,Market,High
+Uneven raod surface and also Loose electric wires hanging not fixed yet,Road Damage,1,Highway,Critical
+Road cracked badly after rain and also Pipeline burst near market,Road Damage,6,Market,Medium
+Streetlight not working and also Frequent power cuts causing problems,Electricity,9,Highway,Critical
+Drain cleaning required urgently please resolve soon,Drainage,3,Hospital Area,Low
+Road cracked badly after rain and also Road sinking problem citizens suffering,Road Damage,6,School Area,Medium
+Drain blockage for 10 days,Drainage,10,School Area,High
+Uneven road surface and also Water logging problem,Road Damage,2,Highway,Critical
+Garbage not collected for 3 days,Garbage,3,Residential,Low
+Road cracked badly after rain kindly look into this,Road Damage,4,Highway,Critical
+Water leakage for 7 days,Water Issue,7,Highway,Critical
+Low water pressure in area,Water Issue,4,Residential,Medium
+Low water pressure in area and also Pipeline burst near market not fixed yet,Water Issue,1,Highway,Critical
+Frequent power cuts,Electricity,2,Residential,Low
+Drain blockage for 7 days,Drainage,7,Highway,Critical
+Drain cleaning required urgently citizens suffering,Drainage,8,Hospital Area,High
+Waste dumping issue,Garbage,10,Residential,High
+Pothole causing accidents dangerous situation,Road Damage,8,Residential,Critical
+Loose electric wires hanging and also Power outage for {} hours since many days,Electricity,2,Hospital Area,Low
+Low water pressure in area dangerous situation,Water Issue,10,Hospital Area,High
+Water leakage for 10 days dangerous situation,Water Issue,10,School Area,High
+Pothole causing accidents,Road Damage,8,Highway,Critical
+Drain blockage for 3 days immediate action needed,Drainage,3,Highway,Critical
+Road cracked badly after rain and also Dirty water coming from taps,Road Damage,7,Hospital Area,High
+Frequent power cuts,Electricity,1,Highway,Critical
+Low water pressure in area not fixed yet,Water Issue,10,Highway,Critical
+Electric pole sparking,Electricity,9,School Area,High
+Big pothole near school kindly look into this,Road Damage,4,Hospital Area,Medium
+Dirty water coming from taps kindly look into this,Water Issue,7,School Area,High
+Drain cleaning required urgently,Drainage,7,Residential,High
+Garbage scattered everywhere and also Power outage for {} hours,Garbage,1,Highway,Critical
+Garbage not collected for 4 days citizens suffering,Garbage,4,Residential,Medium
+Drain cleaning required urgently,Drainage,3,Residential,Low
+No proper water supply and also Water leakage for {} days,Water Issue,6,Highway,Critical
+Pipeline burst near market and also Sewage overflow,Water Issue,10,Market,High
+Power outage for 6 hours kindly look into this,Electricity,6,Hospital Area,Medium
+Garbage scattered everywhere,Garbage,6,School Area,Medium
+Drain blockage for 10 days immediate action needed,Drainage,10,Highway,Critical
+Loose electric wires hanging and also Road cracked badly after rain,Electricity,1,Hospital Area,Low
+Uneven road surface,Road Damage,4,Market,Medium
+Road sinking problem,Road Damage,7,Market,High
+Waste dumping issue causing problems,Garbage,6,Market,Medium
+Overflowing dustbins near road please resolve soon,Garbage,10,Highway,Critical
+Bad smell due to garbage very urgent,Garbage,5,Market,Medium
+Water leakage for 10 days and also Road cracked badly after rain causing problems,Water Issue,10,Market,High
+Water leakage for 9 days and also Drain watr mixed on road citizens suffering,Water Issue,9,Highway,Critical
+Garbage scattered everywhere dangerous situation,Garbage,3,Hospital Area,High
+Garbage scattered everywhere kindly look into this,Garbage,7,Market,High
+Pothole causing accidents not fixed yet,Road Damage,9,Market,Critical
+Frequent power cuts and also Big pothole near school causing problems,Electricity,9,Market,High
+Waste dumping issue citizens suffering,Garbage,7,School Area,High
+Big pothole near school,Road Damage,10,Highway,Critical
+Bad smell due to garbage very urgent,Garbage,10,Highway,Critical
+Garbage not collected for 4 days and also Big pothole near school causing problems,Garbage,4,School Area,Medium
+Sewage overflow causing problems,Drainage,5,Residential,Medium
+Road cracked badly after rain citizens suffering,Road Damage,5,Highway,Critical
+Drain blockage for 7 days not fixed yet,Drainage,7,Residential,High
+Power outage for 1 hours,Electricity,1,Highway,Critical
+Pipeline burst near market citizens suffering,Water Issue,7,School Area,High
+Water logging problem immediate action needed,Drainage,9,Hospital Area,High
+Uneven raod surface,Road Damage,9,Hospital Area,High
+Drain water mixed on road not fixed yet,Drainage,4,Highway,Critical
+Overflowing dustbins near raod citizens suffering,Garbage,3,Highway,Critical
+Bad smell due to garbage please resolve soon,Garbage,10,Highway,Critical
+Water leakage for 5 days and also No proper water supply,Water Issue,5,Market,Medium
+Road cracked badly after rain and also Low water pressure in area dangerous situation,Road Damage,8,Market,High
+Bad smell due to garbage dangerous situation,Garbage,9,School Area,High
+Waste dumping issue and also Drain water mixed on road since many days,Garbage,2,Market,Low
+Sewage overflow please resolve soon,Drainage,2,Hospital Area,Low
+Streetlight not working and also Pipeline burst near market,Electricity,8,Hospital Area,High
+Road cracked badly after rain and also Road cracked badly after rain immediate action needed,Road Damage,5,Residential,Medium
+Frequent power cuts very urgent,Electricity,1,Residential,Low
+Road sinking problem,Road Damage,3,Highway,Critical
+Streetlight not working,Electricity,9,Highway,Critical
+Big pothole near school and also Pipeline burst near market,Road Damage,5,Residential,Medium
+Frequent power cuts and also Road sinking problem,Electricity,1,School Area,Low
+Overflowing dustbins near road and also Sewage overflow not fixed yet,Garbage,4,Residential,Medium
+Sewage overflow not fixed yet,Drainage,10,Hospital Area,High
+Water leakage for 5 days citizens suffering,Water Issue,5,Hospital Area,Medium
+Garbage not collected for 9 days citizens suffering,Garbage,9,Highway,Critical
+Uneven road surface,Road Damage,1,Highway,Critical
+Water leakage for 7 days not fixed yet,Water Issue,7,Residential,High
+Garbage scattered everywhere and also Electric pole sparking,Garbage,7,Highway,Critical
+Pothole causing accidents not fixed yet,Road Damage,10,Highway,Critical
+Pothole causing accidents,Road Damage,2,School Area,Critical
+Sewage overflow dangerous situation,Drainage,3,Hospital Area,High
+Low water pressure in area very urgent,Water Issue,8,Market,High
+Drain water mixed on road,Drainage,1,Hospital Area,Low
+Power outage for 1 hours,Electricity,1,Residential,Low
+Water logging problem and also Bad smell due to garbage,Drainage,9,Highway,Critical
+Loose electric wires hanging,Electricity,10,Residential,High
+Low water pressure in area,Water Issue,5,Residential,Medium
+Road cracked badly after rain citizens suffering,Road Damage,4,Residential,Medium
+Streetlight not working kindly look into this,Electricity,9,Hospital Area,High
+Drain water mixed on road and also Road sinking problem dangerous situation,Drainage,10,Hospital Area,High
+Dirty water coming from taps not fixed yet,Water Issue,2,Hospital Area,Low
+Dirty water coming from taps,Water Issue,2,Market,Low
+Drain water mixed on road,Drainage,6,Residential,Medium
+Drain water mixed on road kindly look into this,Drainage,7,Residential,High
+Water leakage for 7 days and also Electric pole sparking please resolve soon,Water Issue,7,Hospital Area,High
+No proper water supply causing problems,Water Issue,1,Highway,Critical
+Power outage for 3 hours please resolve soon,Electricity,3,Market,Low
+Bad smell due to garbage kindly look into this,Garbage,7,Hospital Area,High
+Garbage scattered everywhere kindly look into this,Garbage,7,Hospital Area,High
+Streetlight not working since many days,Electricity,6,Highway,Critical
+Drain cleaning required urgently and also Drain cleaning required urgently,Drainage,9,Highway,Critical
+Dirty watr coming from taps causing problems,Water Issue,8,School Area,High
+Bad smell due to garbage very urgent,Garbage,9,Highway,Critical
+Water logging problem and also Water logging problem not fixed yet,Drainage,6,Hospital Area,Medium
+Electric pole sparking dangerous situation,Electricity,2,Market,High
+Streetlight not working and also Uneven road surface dangerous situation,Electricity,2,Residential,High
+Road sinking problem causing problems,Road Damage,7,School Area,High
+Streetlight not working immediate action needed,Electricity,6,Residential,Medium
+Drain water mixed on road causing problems,Drainage,7,School Area,High
+Road sinking problem and also Waste dumping issue please resolve soon,Road Damage,5,Market,Medium
+No proper water supply citizens suffering,Water Issue,1,School Area,Low
+Electric pole sparking not fixed yet,Electricity,4,Residential,High
+Drain cleaning required urgently,Drainage,4,School Area,Medium
+Power outage for 9 hours causing problems,Electricity,9,School Area,High
+Overflowing dustbins near raod causing problems,Garbage,7,School Area,High
+Low water pressure in area and also Drain blockage for {} days immediate action needed,Water Issue,3,School Area,Low
+Pipeline burst near market,Water Issue,1,Residential,Low
+Streetlight not working not fixed yet,Electricity,1,Residential,Low
+Sewage overflow not fixed yet,Drainage,3,Residential,Low
+Electric pole sparking and also Loose electric wires hanging not fixed yet,Electricity,5,Hospital Area,High
+Road cracked badly after rain kindly look into this,Road Damage,10,Market,High
+Pothole causing accidents,Road Damage,2,Market,Critical
+Power outage for 5 hours and also Low water pressure in area since many days,Electricity,5,Residential,Medium
+Pothole causing accidents citizens suffering,Road Damage,2,School Area,Critical
+Loose electric wires hanging since many days,Electricity,5,School Area,Medium
+Garbage not collected for 5 days,Garbage,5,Residential,Medium
+Big pothole near school,Road Damage,7,Market,High
+Loose electric wires hanging dangerous situation,Electricity,6,Residential,High
+Drain watr mixed on road not fixed yet,Drainage,4,Hospital Area,Medium
+Sewage overflow and also Electric pole sparking immediate action needed,Drainage,8,Hospital Area,High
+Waste dumping issue and also Big pothole near school very urgent,Garbage,6,Residential,Medium
+Drain cleaning required urgently and also Low water pressure in area very urgent,Drainage,3,School Area,Low
+Frequent power cuts very urgent,Electricity,9,Highway,Critical
+Streetlight not working and also Loose eletric wires hanging not fixed yet,Electricity,6,Market,Medium
+Road cracked badly after rain immediate action needed,Road Damage,5,Residential,Medium
+No proper water supply,Water Issue,8,Hospital Area,High
+Low water pressure in area citizens suffering,Water Issue,8,School Area,High
+Waste dumping issue dangerous situation,Garbage,6,School Area,High
+Power outage for 7 hours,Electricity,7,Highway,Critical
+Pothole causing accidents,Road Damage,10,Market,Critical
+Road sinking problem citizens suffering,Road Damage,4,School Area,Medium
+Road sinking problem please resolve soon,Road Damage,8,Market,High
+Frequent power cuts dangerous situation,Electricity,5,Highway,Critical
+Water logging problem not fixed yet,Drainage,5,Residential,Medium
+Drain blockage for 10 days,Drainage,10,Residential,High
+Uneven raod surface,Road Damage,4,Residential,Medium
+Road cracked badly after rain citizens suffering,Road Damage,2,Highway,Critical
+Big pothole near school and also No proper water supply since many days,Road Damage,7,Residential,High
+Drain cleaning required urgently very urgent,Drainage,5,Residential,Medium
+Road sinking problem and also Road cracked badly after rain please resolve soon,Road Damage,6,Market,Medium
+Dirty water coming from taps very urgent,Water Issue,6,Residential,Medium
+Pipeline burst near market,Water Issue,7,Hospital Area,High
+Garbage scattered everywhere,Garbage,4,Highway,Critical
+Electric pole sparking,Electricity,4,School Area,High
+Water logging problem immediate action needed,Drainage,9,Highway,Critical
+Electric pole sparking and also Loose electric wires hanging please resolve soon,Electricity,6,Residential,High
+Pothole causing accidents,Road Damage,2,Residential,Critical
+Drain blockage for 2 days,Drainage,2,Highway,Critical
+Road cracked badly after rain immediate action needed,Road Damage,3,Residential,Low
+Uneven road surface and also Road sinking problem please resolve soon,Road Damage,8,Residential,High
+Garbage not collected for 3 days and also Waste dumping issue immediate action needed,Garbage,3,Market,Low
+Streetlight not working and also Loose electric wires hanging immediate action needed,Electricity,6,Market,Medium
+Bad smell due to garbage causing problems,Garbage,5,Highway,Critical
+Low water pressure in area and also Big pothole near school very urgent,Water Issue,4,School Area,Medium
+Garbage not collected for 8 days since many days,Garbage,8,Highway,Critical
+Dirty water coming from taps,Water Issue,8,Residential,High
+Garbage scattered everywhere and also Uneven road surface,Garbage,1,School Area,Low
+Drain blockage for 4 days,Drainage,4,Hospital Area,Medium
+No proper water supply dangerous situation,Water Issue,4,School Area,High
+Waste dumping issue immediate action needed,Garbage,1,School Area,Low
+Sewage overflow causing problems,Drainage,9,Highway,Critical
+Sewage overflow immediate action needed,Drainage,10,Hospital Area,High
+Garbage scattered everywhere very urgent,Garbage,6,Hospital Area,Medium
+Drain blockage for 5 days,Drainage,5,Hospital Area,Medium
+Garbage not collected for 4 days kindly look into this,Garbage,4,Market,Medium
+Water leakage for 2 days kindly look into this,Water Issue,2,Residential,Low
+Road cracked badly after rain,Road Damage,5,Hospital Area,Medium
+Water leakage for 8 days and also No proper water supply,Water Issue,8,Hospital Area,High
+Power outage for 6 hours immediate action needed,Electricity,6,Hospital Area,Medium
+Big pothole near school,Road Damage,7,Highway,Critical
+Waste dumping issue,Garbage,6,Residential,Medium
+Drain water mixed on road,Drainage,10,School Area,High
+Overflowing dustbins near road and also Drain blockage for {} days immediate action needed,Garbage,6,Market,Medium
+Bad smell due to garbage since many days,Garbage,7,School Area,High
+Pipeline burst near market,Water Issue,10,School Area,High
+Uneven road surface causing problems,Road Damage,9,Hospital Area,High
+Waste dumping issue and also Electric pole sparking,Garbage,7,Highway,Critical
+Pipeline burst near market and also Water logging problem please resolve soon,Water Issue,7,Residential,High
+Waste dumping issue immediate action needed,Garbage,7,Market,High
+Overflowing dustbins near road,Garbage,2,School Area,Low
+No proper watr supply since many days,Water Issue,7,Residential,High
+Streetlight not working,Electricity,9,Market,High
+Drain blockage for 6 days causing problems,Drainage,6,School Area,Medium
+Drain water mixed on road citizens suffering,Drainage,10,Market,High
+Streetlight not working kindly look into this,Electricity,5,Highway,Critical
+Water logging problem causing problems,Drainage,3,Residential,Low
+Dirty water coming from taps and also Big pothole near school citizens suffering,Water Issue,7,Market,High
+Drain water mixed on road not fixed yet,Drainage,9,Market,High
+Waste dumping issue kindly look into this,Garbage,10,Market,High
+Road sinking problem,Road Damage,10,School Area,High
+Water logging problem causing problems,Drainage,4,School Area,Medium
+Streetlight not working kindly look into this,Electricity,7,Market,High
+Sewage overflow since many days,Drainage,5,Residential,Medium
+No proper watr supply since many days,Water Issue,8,Highway,Critical
+Electric pole sparking citizens suffering,Electricity,8,Market,High
+Road sinking problem dangerous situation,Road Damage,4,Hospital Area,High
+No proper water supply and also Power outage for {} hours citizens suffering,Water Issue,6,Hospital Area,Medium
+Garbage scattered everywhere and also Low water pressure in area very urgent,Garbage,6,Highway,Critical
+Road sinking problem immediate action needed,Road Damage,4,Hospital Area,Medium
+Drain blockage for 10 days causing problems,Drainage,10,School Area,High
+Pothole causing accidents,Road Damage,10,School Area,Critical
+Waste dumping issue not fixed yet,Garbage,5,Hospital Area,Medium
+Pipeline burst near market dangerous situation,Water Issue,6,Residential,High
+Pipeline burst near market,Water Issue,7,Hospital Area,High
+Garbage not collected for 5 days kindly look into this,Garbage,5,Hospital Area,Medium
+Road cracked badly after rain dangerous situation,Road Damage,3,Market,High
+Drain water mixed on road causing problems,Drainage,8,Residential,High
+Garbage scattered everywhere citizens suffering,Garbage,1,Market,Low
+Streetlight not working kindly look into this,Electricity,6,Market,Medium
+Water leakage for 7 days very urgent,Water Issue,7,School Area,High
+No proper water supply causing problems,Water Issue,6,Market,Medium
+Sewage overflow not fixed yet,Drainage,1,School Area,Low
+Electric pole sparking,Electricity,3,School Area,High
+Waste dumping issue,Garbage,5,Highway,Critical
+Power outage for 1 hours causing problems,Electricity,1,School Area,Low
+Bad smell due to garbage not fixed yet,Garbage,9,Market,High
+Low water pressure in area immediate action needed,Water Issue,7,School Area,High
+Dirty water coming from taps kindly look into this,Water Issue,8,Residential,High
+Road sinking problem,Road Damage,4,Market,Medium
+Road sinking problem and also Road cracked badly after rain,Road Damage,7,Market,High
+Bad smell due to garbage,Garbage,1,Residential,Low
+Streetlight not working and also Pipeline burst near market,Electricity,1,School Area,Low
+Overflowing dustbins near road dangerous situation,Garbage,3,Market,High
+Road cracked badly after rain,Road Damage,10,Market,High
+Bad smell due to garbage not fixed yet,Garbage,3,Residential,Low
+Water logging problem and also Garbage not collected for {} days please resolve soon,Drainage,3,School Area,Low
+Loose electric wires hanging and also Road cracked badly after rain causing problems,Electricity,3,Residential,Low
+Overflowing dustbins near raod,Garbage,2,Hospital Area,Low
+Frequent power cuts,Electricity,3,Market,Low
+Low water pressure in area very urgent,Water Issue,1,School Area,Low
+Road sinking problem,Road Damage,3,Residential,Low
+Low water pressure in area dangerous situation,Water Issue,1,Hospital Area,High
+Garbage not collected for 4 days and also Low water pressure in area very urgent,Garbage,4,Market,Medium
+Big pothole near school please resolve soon,Road Damage,7,Hospital Area,High
+Streetlight not working citizens suffering,Electricity,8,Residential,High
+Pothole causing accidents causing problems,Road Damage,4,Highway,Critical
+Water leakage for 8 days dangerous situation,Water Issue,8,Market,High
+Low watr pressure in area,Water Issue,8,School Area,High
+Loose electric wires hanging and also No proper water supply very urgent,Electricity,2,Highway,Critical
+Garbage not collected for 10 days since many days,Garbage,10,School Area,High
+Drain cleaning required urgently please resolve soon,Drainage,3,Market,Low
+Frequent power cuts and also Loose electric wires hanging please resolve soon,Electricity,2,Market,Low
+Streetlight not working since many days,Electricity,1,Hospital Area,Low
+Frequent power cuts and also Garbage scattered everywhere very urgent,Electricity,4,Highway,Critical
+Low water pressure in area,Water Issue,3,Hospital Area,Low
+Drain cleaning required urgently and also Water logging problem citizens suffering,Drainage,9,School Area,High
+Pothole causing accidents not fixed yet,Road Damage,5,Hospital Area,Critical
+Waste dumping issue very urgent,Garbage,3,Market,Low
+Pipeline burst near market,Water Issue,6,Hospital Area,Medium
+Big pothole near school citizens suffering,Road Damage,1,Market,Low
+Sewage overflow dangerous situation,Drainage,3,Hospital Area,High
+Drain water mixed on road not fixed yet,Drainage,5,Hospital Area,Medium
+Big pothole near school very urgent,Road Damage,8,School Area,High
+Drain blockage for 8 days very urgent,Drainage,8,Market,High
+Overflowing dustbins near road dangerous situation,Garbage,9,Hospital Area,High
+Loose electric wires hanging and also No proper water supply,Electricity,5,Residential,Medium
+Big pothole near school,Road Damage,3,Residential,Low
+Low water pressure in area immediate action needed,Water Issue,7,Hospital Area,High
+Road sinking problem very urgent,Road Damage,8,Highway,Critical
+Sewage overflow dangerous situation,Drainage,10,Residential,High
+Dirty water coming from taps and also Drain blockage for {} days immediate action needed,Water Issue,10,Residential,High
+Garbage not collected for 1 days please resolve soon,Garbage,1,Hospital Area,Low
+Waste dumping issue,Garbage,9,School Area,High
+Sewage overflow and also Streetlight not working,Drainage,6,Hospital Area,Medium
+Drain water mixed on road and also Road sinking problem very urgent,Drainage,4,Residential,Medium
+Overflowing dustbins near road,Garbage,5,Residential,Medium
+Loose electric wires hanging kindly look into this,Electricity,4,School Area,Medium
+Dirty water coming from taps and also Drain water mixed on road kindly look into this,Water Issue,5,Residential,Medium
+Sewage overflow dangerous situation,Drainage,10,Hospital Area,High
+Streetlight not working,Electricity,7,Highway,Critical
+Drain cleaning required urgently please resolve soon,Drainage,7,School Area,High
+Pipeline burst near market,Water Issue,9,Highway,Critical
+Loose electric wires hanging,Electricity,4,Residential,Medium
+Big pothole near school and also Sewage overflow,Road Damage,10,School Area,High
+Drain water mixed on road kindly look into this,Drainage,7,Residential,High
+Water logging problem kindly look into this,Drainage,8,Market,High
+Frequent power cuts immediate action needed,Electricity,3,Highway,Critical
+Drain watr mixed on road and also Road cracked badly after rain immediate action needed,Drainage,5,Market,Medium
+Garbage not collected for 3 days,Garbage,3,Hospital Area,Low
+Road sinking problem immediate action needed,Road Damage,7,School Area,High
+Drain watr mixed on road and also Drain blockage for {} days kindly look into this,Drainage,10,Hospital Area,High
+No proper water supply immediate action needed,Water Issue,10,Residential,High
+Pipeline burst near market,Water Issue,10,Residential,High
+Low water pressure in area,Water Issue,1,Hospital Area,Low
+Drain cleaning required urgently,Drainage,8,Market,High
+Waste dumping issue since many days,Garbage,7,School Area,High
+Road sinking problem and also Dirty water coming from taps,Road Damage,8,Hospital Area,High
+Road cracked badly after rain,Road Damage,3,School Area,Low
+Drain blockage for 3 days not fixed yet,Drainage,3,Hospital Area,Low
+Road cracked badly after rain,Road Damage,1,Residential,Low
+Pothole causing accidents very urgent,Road Damage,6,Hospital Area,Critical
+Overflowing dustbins near road kindly look into this,Garbage,4,Market,Medium
+Bad smell due to garbage and also Electric pole sparking,Garbage,1,Highway,Critical
+Waste dumping issue,Garbage,1,Market,Low
+Uneven road surface,Road Damage,8,Market,High
+Dirty water coming from taps,Water Issue,8,Market,High
+Uneven road surface immediate action needed,Road Damage,8,Market,High
+No proper watr supply and also Big pothole near school not fixed yet,Water Issue,3,Hospital Area,Low
+Big pothole near school very urgent,Road Damage,6,Residential,Medium
+Drain water mixed on road,Drainage,8,Hospital Area,High
+Garbage not collected for 9 days dangerous situation,Garbage,9,Residential,High
+Electric pole sparking,Electricity,10,Residential,High
+Loose electric wires hanging,Electricity,5,School Area,Medium
+Uneven road surface and also Dirty water coming from taps citizens suffering,Road Damage,4,Hospital Area,Medium
+Uneven road surface and also Low water pressure in area,Road Damage,10,Market,High
+Pipeline burst near market and also Electric pole sparking kindly look into this,Water Issue,2,School Area,High
+Drain cleaning required urgently immediate action needed,Drainage,6,Highway,Critical
+Loose electric wires hanging citizens suffering,Electricity,1,School Area,Low
+Streetlight not working and also Drain water mixed on road please resolve soon,Electricity,2,Hospital Area,Low
+Water logging problem immediate action needed,Drainage,1,Residential,Low
+Electric pole sparking and also Road cracked badly after rain causing problems,Electricity,4,Market,High
+Pipeline burst near market since many days,Water Issue,4,School Area,Medium
+Drain cleaning required urgently,Drainage,6,Hospital Area,Medium
+Sewage overflow dangerous situation,Drainage,4,Hospital Area,High
+Overflowing dustbins near road very urgent,Garbage,9,Residential,High
+Sewage overflow immediate action needed,Drainage,7,Residential,High
+Big pothole near school kindly look into this,Road Damage,8,Residential,High
+Water leakage for 10 days and also Drain cleaning required urgently,Water Issue,10,Residential,High
+Sewage overflow and also Water leakage for {} days please resolve soon,Drainage,8,Market,High
+Overflowing dustbins near road very urgent,Garbage,8,Market,High
+Pipeline burst near market causing problems,Water Issue,4,Highway,Critical
+Water leakage for 10 days,Water Issue,10,Hospital Area,High
+Uneven road surface and also Water leakage for {} days please resolve soon,Road Damage,6,Hospital Area,Medium
+Big pothole near school,Road Damage,8,Highway,Critical
+Streetlight not working and also Drain water mixed on road,Electricity,9,Market,High
+Electric pole sparking and also Sewage overflow,Electricity,8,Residential,High
+Power outage for 9 hours immediate action needed,Electricity,9,School Area,High
+Overflowing dustbins near road causing problems,Garbage,5,Market,Medium
+Dirty water coming from taps and also Road cracked badly after rain,Water Issue,5,Highway,Critical
+Water leakage for 10 days,Water Issue,10,Market,High
+Big pothole near school,Road Damage,2,Market,Low
+Garbage not collected for 10 days immediate action needed,Garbage,10,Highway,Critical
+Water leakage for 2 days citizens suffering,Water Issue,2,Market,Low
+Pothole causing accidents,Road Damage,10,Highway,Critical
+Overflowing dustbins near road,Garbage,1,Hospital Area,Low
+Pipeline burst near market not fixed yet,Water Issue,1,Highway,Critical
+No proper water supply and also Road cracked badly after rain please resolve soon,Water Issue,6,Hospital Area,Medium
+Road sinking problem please resolve soon,Road Damage,5,Hospital Area,Medium
+Drain blockage for 2 days,Drainage,2,Residential,Low
+Bad smell due to garbage citizens suffering,Garbage,5,Hospital Area,Medium
+Overflowing dustbins near road and also Sewage overflow causing problems,Garbage,1,Highway,Critical
+Low water pressure in area immediate action needed,Water Issue,6,Residential,Medium
+Drain blockage for 7 days and also Frequent power cuts very urgent,Drainage,7,School Area,High
+Garbage scattered everywhere,Garbage,8,Highway,Critical
+Pipeline burst near market and also Pipeline burst near market,Water Issue,9,School Area,High
+Road sinking problem very urgent,Road Damage,1,School Area,Low
+No proper watr supply,Water Issue,3,Residential,Low
+Low water pressure in area,Water Issue,6,School Area,Medium
+Streetlight not working,Electricity,8,Highway,Critical
+Drain water mixed on road dangerous situation,Drainage,10,School Area,High
+Sewage overflow,Drainage,6,Highway,Critical
+Road cracked badly after rain very urgent,Road Damage,2,Hospital Area,Low
+Garbage not collected for 9 days citizens suffering,Garbage,9,School Area,High
+Big pothole near school immediate action needed,Road Damage,9,School Area,High
+Waste dumping issue causing problems,Garbage,5,Highway,Critical
+Dirty water coming from taps kindly look into this,Water Issue,1,Hospital Area,Low
+Bad smell due to garbage,Garbage,9,Hospital Area,High
+Drain blockage for 5 days immediate action needed,Drainage,5,Market,Medium
+Drain cleaning required urgently please resolve soon,Drainage,5,School Area,Medium
+Waste dumping issue not fixed yet,Garbage,9,Hospital Area,High
+Road cracked badly after rain and also Road sinking problem since many days,Road Damage,10,School Area,High
+Drain cleaning required urgently and also No proper water supply,Drainage,10,School Area,High
+Waste dumping issue and also Waste dumping issue,Garbage,4,Hospital Area,Medium
+Sewage overflow,Drainage,7,Residential,High
+Garbage not collected for 7 days and also Road cracked badly after rain very urgent,Garbage,7,Residential,High
+Water logging problem,Drainage,4,Residential,Medium
+Garbage scattered everywhere,Garbage,3,Highway,Critical
+Road cracked badly after rain,Road Damage,10,Residential,High
+Streetlight not working not fixed yet,Electricity,3,Hospital Area,Low
+Big pothole near school,Road Damage,2,School Area,Low
+Streetlight not working causing problems,Electricity,5,School Area,Medium
+Dirty water coming from taps citizens suffering,Water Issue,10,Hospital Area,High
+Loose electric wires hanging,Electricity,2,School Area,Low
+Road cracked badly after rain causing problems,Road Damage,8,School Area,High
+Uneven road surface very urgent,Road Damage,9,Residential,High
+Overflowing dustbins near raod since many days,Garbage,3,Residential,Low
+Pothole causing accidents immediate action needed,Road Damage,4,School Area,Critical
+Garbage not collected for 8 days,Garbage,8,Hospital Area,High
+Electric pole sparking and also Water logging problem please resolve soon,Electricity,5,School Area,High
+Loose electric wires hanging and also Garbage not collected for {} days,Electricity,7,Highway,Critical
+Drain water mixed on road,Drainage,1,School Area,Low
+Uneven road surface,Road Damage,2,Highway,Critical
+No proper water supply and also Garbage not collected for {} days since many days,Water Issue,1,Hospital Area,Low
+Pothole causing accidents and also Electric pole sparking kindly look into this,Road Damage,1,Highway,Critical
+Bad smell due to garbage not fixed yet,Garbage,1,Highway,Critical
+Streetlight not working and also Road sinking problem,Electricity,9,Residential,High
+Dirty water coming from taps very urgent,Water Issue,10,Hospital Area,High
+Water leakage for 7 days not fixed yet,Water Issue,7,School Area,High
+Drain blockage for 3 days and also Power outage for {} hours kindly look into this,Drainage,3,School Area,Low
+Garbage not collected for 8 days and also Water leakage for {} days kindly look into this,Garbage,8,Hospital Area,High
+Garbage not collected for 10 days immediate action needed,Garbage,10,Market,High
+No proper water supply citizens suffering,Water Issue,9,Hospital Area,High
+Sewage overflow very urgent,Drainage,6,Highway,Critical
+Streetlight not working since many days,Electricity,3,Highway,Critical
+Garbage not collected for 7 days and also Garbage not collected for {} days causing problems,Garbage,7,Hospital Area,High
+Sewage overflow,Drainage,5,School Area,Medium
+Uneven road surface,Road Damage,5,Market,Medium
+Waste dumping issue please resolve soon,Garbage,10,Highway,Critical
+Low water pressure in area causing problems,Water Issue,2,Market,Low
+Drain water mixed on road and also Frequent power cuts please resolve soon,Drainage,8,Residential,High
+No proper water supply and also Drain cleaning required urgently dangerous situation,Water Issue,3,School Area,High
+Road sinking problem immediate action needed,Road Damage,10,Hospital Area,High
+Big pothole near school and also Drain water mixed on road,Road Damage,4,School Area,Medium
+Waste dumping issue and also Road cracked badly after rain,Garbage,5,School Area,Medium
+Streetlight not working citizens suffering,Electricity,2,Residential,Low
+Bad smell due to garbage dangerous situation,Garbage,6,School Area,High
+Drain cleaning required urgently citizens suffering,Drainage,7,School Area,High
+Drain water mixed on road,Drainage,3,Market,Low
+Frequent power cuts,Electricity,9,School Area,High
+Garbage scattered everywhere since many days,Garbage,10,Hospital Area,High
+Garbage scattered everywhere causing problems,Garbage,2,Residential,Low
+Garbage not collected for 2 days dangerous situation,Garbage,2,School Area,High
+Electric pole sparking,Electricity,9,Market,High
+Uneven road surface not fixed yet,Road Damage,6,Market,Medium
+Bad smell due to garbage kindly look into this,Garbage,2,School Area,Low
+Sewage overflow,Drainage,2,Residential,Low
+Big pothole near school and also Pothole causing accidents,Road Damage,5,School Area,Critical
+Power outage for 10 hours,Electricity,10,Hospital Area,High
+Loose electric wires hanging and also Drain cleaning required urgently please resolve soon,Electricity,6,Residential,Medium
+Frequent power cuts causing problems,Electricity,4,School Area,Medium
+Water leakage for 5 days very urgent,Water Issue,5,Market,Medium
+Electric pole sparking citizens suffering,Electricity,4,Residential,High
+Drain water mixed on road please resolve soon,Drainage,5,Hospital Area,Medium
+Big pothole near school since many days,Road Damage,9,School Area,High
+Sewage overflow citizens suffering,Drainage,2,Hospital Area,Low
+Streetlight not working very urgent,Electricity,7,Highway,Critical
+Water logging problem not fixed yet,Drainage,10,Market,High
+Electric pole sparking since many days,Electricity,8,Highway,Critical
+Road sinking problem and also Sewage overflow kindly look into this,Road Damage,2,Market,Low
+Waste dumping issue and also Garbage not collected for {} days,Garbage,9,Hospital Area,High
+Drain cleaning required urgently please resolve soon,Drainage,10,Market,High
+Dirty water coming from taps dangerous situation,Water Issue,10,Hospital Area,High
+Overflowing dustbins near road immediate action needed,Garbage,8,Market,High
+Water logging problem causing problems,Drainage,7,Hospital Area,High
+Drain blockage for 4 days and also Water leakage for {} days,Drainage,4,School Area,Medium
+Big pothole near school not fixed yet,Road Damage,5,Market,Medium
+No proper water supply,Water Issue,10,School Area,High
+Dirty water coming from taps,Water Issue,10,Hospital Area,High
+Road sinking problem citizens suffering,Road Damage,4,School Area,Medium
+Water logging problem and also Low water pressure in area,Drainage,9,Market,High
+Electric pole sparking immediate action needed,Electricity,9,Hospital Area,High
+Bad smell due to garbage kindly look into this,Garbage,5,Market,Medium
+Waste dumping issue immediate action needed,Garbage,5,School Area,Medium
+Overflowing dustbins near road,Garbage,6,Hospital Area,Medium
+Frequent power cuts and also Garbage not collected for {} days immediate action needed,Electricity,8,School Area,High
+Frequent power cuts immediate action needed,Electricity,9,Residential,High
+Drain blockage for 1 days and also Electric pole sparking,Drainage,1,Residential,High
+Dirty watr coming from taps citizens suffering,Water Issue,10,Market,High
+Water logging problem,Drainage,1,School Area,Low
+Big pothole near school and also Frequent power cuts dangerous situation,Road Damage,2,Residential,High
+Drain cleaning required urgently,Drainage,7,School Area,High
+Sewage overflow very urgent,Drainage,10,Market,High
+Dirty water coming from taps,Water Issue,5,Market,Medium
+Waste dumping issue since many days,Garbage,7,Market,High
+Water logging problem very urgent,Drainage,7,Highway,Critical
+Waste dumping issue and also Uneven road surface,Garbage,3,Highway,Critical
+Frequent power cuts,Electricity,7,School Area,High
+Road cracked badly after rain very urgent,Road Damage,10,Market,High
+Bad smell due to garbage,Garbage,3,Highway,Critical
+Pothole causing accidents kindly look into this,Road Damage,4,Highway,Critical
+Frequent power cuts citizens suffering,Electricity,4,School Area,Medium
+Sewage overflow not fixed yet,Drainage,10,Residential,High
+Low water pressure in area,Water Issue,7,Market,High
+Uneven road surface very urgent,Road Damage,2,Residential,Low
+Dirty water coming from taps and also Dirty water coming from taps very urgent,Water Issue,7,Market,High
+No proper water supply kindly look into this,Water Issue,1,School Area,Low
+Garbage not collected for 8 days,Garbage,8,Highway,Critical
+Electric pole sparking kindly look into this,Electricity,5,Hospital Area,High
+Pothole causing accidents very urgent,Road Damage,2,Highway,Critical
+Big pothole near school,Road Damage,9,Residential,High
+Drain cleaning required urgently and also Garbage not collected for {} days causing problems,Drainage,2,School Area,Low
+Frequent power cuts,Electricity,10,School Area,High
+No proper water supply and also Drain water mixed on road since many days,Water Issue,6,Highway,Critical
+Garbage scattered everywhere and also Overflowing dustbins near road citizens suffering,Garbage,8,Hospital Area,High
+Water leakage for 2 days,Water Issue,2,School Area,Low
+Electric pole sparking and also Loose electric wires hanging,Electricity,10,Market,High
+Sewage overflow and also Streetlight not working since many days,Drainage,5,School Area,Medium
+Drain blockage for 2 days,Drainage,2,Highway,Critical
+Water leakage for 5 days,Water Issue,5,Market,Medium
+Drain water mixed on road since many days,Drainage,9,Highway,Critical
+Overflowing dustbins near road not fixed yet,Garbage,1,Market,Low
+Drain blockage for 9 days since many days,Drainage,9,Residential,High
+Waste dumping issue please resolve soon,Garbage,4,Market,Medium
+Drain cleaning required urgently causing problems,Drainage,3,Hospital Area,Low
+Pipeline burst near market and also Dirty water coming from taps,Water Issue,5,Residential,Medium
+Water leakage for 6 days please resolve soon,Water Issue,6,Highway,Critical
+Pipeline burst near market immediate action needed,Water Issue,9,Residential,High
+Bad smell due to garbage,Garbage,2,School Area,Low
+Power outage for 3 hours and also Streetlight not working immediate action needed,Electricity,3,Highway,Critical
+No proper water supply and also Power outage for {} hours kindly look into this,Water Issue,9,Hospital Area,High
+Dirty water coming from taps,Water Issue,10,Hospital Area,High
+Drain blockage for 7 days,Drainage,7,Residential,High
+Low water pressure in area kindly look into this,Water Issue,5,School Area,Medium
+Pipeline burst near market dangerous situation,Water Issue,2,Market,High
+Dirty water coming from taps,Water Issue,1,Hospital Area,Low
+Loose electric wires hanging citizens suffering,Electricity,8,Hospital Area,High
+Drain cleaning required urgently please resolve soon,Drainage,9,Residential,High
+Pothole causing accidents dangerous situation,Road Damage,4,Highway,Critical
+Sewage overflow citizens suffering,Drainage,1,Market,Low
+Overflowing dustbins near raod and also Pothole causing accidents citizens suffering,Garbage,8,Residential,Critical
+Bad smell due to garbage,Garbage,7,Market,High
+Sewage overflow and also Road sinking problem dangerous situation,Drainage,9,Hospital Area,High
+Dirty water coming from taps,Water Issue,10,Residential,High
+Overflowing dustbins near road and also Pothole causing accidents since many days,Garbage,8,Hospital Area,Critical
+Sewage overflow since many days,Drainage,10,Residential,High
+Frequent power cuts not fixed yet,Electricity,6,Highway,Critical
+Big pothole near school and also Power outage for {} hours citizens suffering,Road Damage,2,Highway,Critical
+Power outage for 9 hours citizens suffering,Electricity,9,Highway,Critical
+Water leakage for 10 days very urgent,Water Issue,10,School Area,High
+Pothole causing accidents very urgent,Road Damage,2,Market,Critical
+Power outage for 3 hours,Electricity,3,Highway,Critical
+Frequent power cuts and also Road sinking problem dangerous situation,Electricity,8,Market,High
+No proper water supply kindly look into this,Water Issue,7,Market,High
+No proper water supply kindly look into this,Water Issue,5,Market,Medium
+Low water pressure in area,Water Issue,10,Highway,Critical
+Water leakage for 2 days very urgent,Water Issue,2,Highway,Critical
+Pothole causing accidents,Road Damage,9,Residential,Critical
+Electric pole sparking and also Uneven road surface kindly look into this,Electricity,1,Market,High
+Pothole causing accidents please resolve soon,Road Damage,10,School Area,Critical
+Garbage not collected for 3 days,Garbage,3,Residential,Low
+Drain cleaning required urgently kindly look into this,Drainage,2,Hospital Area,Low
+Water leakage for 2 days since many days,Water Issue,2,Residential,Low
+Overflowing dustbins near road and also Loose electric wires hanging kindly look into this,Garbage,5,Highway,Critical
+Big pothole near school citizens suffering,Road Damage,6,Highway,Critical
+Water logging problem since many days,Drainage,3,Residential,Low
+Sewage overflow and also Road sinking problem please resolve soon,Drainage,3,Highway,Critical
+Low water pressure in area,Water Issue,5,Highway,Critical
+Streetlight not working please resolve soon,Electricity,10,School Area,High
+Waste dumping issue and also Water logging problem,Garbage,3,Highway,Critical
+Drain cleaning required urgently since many days,Drainage,10,School Area,High
+Garbage scattered everywhere immediate action needed,Garbage,8,Hospital Area,High
+Pipeline burst near market very urgent,Water Issue,5,Residential,Medium
+Low water pressure in area,Water Issue,7,Market,High
+Pipeline burst near market citizens suffering,Water Issue,7,Hospital Area,High
+Big pothole near school citizens suffering,Road Damage,10,Residential,High
+Garbage not collected for 4 days please resolve soon,Garbage,4,Residential,Medium
+Waste dumping issue and also Dirty water coming from taps please resolve soon,Garbage,7,School Area,High
+Big pothole near school immediate action needed,Road Damage,8,Hospital Area,High
+Big pothole near school and also Pothole causing accidents please resolve soon,Road Damage,8,School Area,Critical
+Garbage scattered everywhere citizens suffering,Garbage,1,Residential,Low
+Bad smell due to garbge since many days,Garbage,5,School Area,Medium
+Sewage overflow and also Water leakage for {} days,Drainage,1,School Area,Low
+Big pothole near school,Road Damage,1,Market,Low
+Big pothole near school immediate action needed,Road Damage,3,Market,Low
+Loose electric wires hanging not fixed yet,Electricity,4,Hospital Area,Medium
+Waste dumping issue since many days,Garbage,7,Highway,Critical
+Garbage not collected for 5 days dangerous situation,Garbage,5,Market,High
+Pipeline burst near market and also Electric pole sparking causing problems,Water Issue,3,Market,High
+Big pothole near school kindly look into this,Road Damage,6,Highway,Critical
+Bad smell due to garbage since many days,Garbage,7,Market,High
+Loose electric wires hanging,Electricity,4,Highway,Critical
+Electric pole sparking,Electricity,6,School Area,High
+Low water pressure in area please resolve soon,Water Issue,4,Residential,Medium
+Water logging problem kindly look into this,Drainage,4,Residential,Medium
+Water logging problem citizens suffering,Drainage,9,Hospital Area,High
+Waste dumping issue and also Streetlight not working citizens suffering,Garbage,3,Market,Low
+Sewage overflow,Drainage,9,Highway,Critical
+Bad smell due to garbage dangerous situation,Garbage,4,Residential,High
+Drain cleaning required urgently,Drainage,4,Highway,Critical
+Big pothole near school and also Big pothole near school since many days,Road Damage,6,Residential,Medium
+Low watr pressure in area and also Drain watr mixed on road dangerous situation,Water Issue,4,Hospital Area,High
+Road sinking problem,Road Damage,9,Residential,High
+Water logging problem not fixed yet,Drainage,8,Highway,Critical
+Low water pressure in area and also Uneven road surface very urgent,Water Issue,2,Hospital Area,Low
+Frequent power cuts very urgent,Electricity,2,Residential,Low
+No proper watr supply and also Loose electric wires hanging please resolve soon,Water Issue,3,Residential,Low
+Big pothole near school,Road Damage,1,Residential,Low
+Bad smell due to garbage and also Bad smell due to garbage dangerous situation,Garbage,2,Residential,High
+Water leakage for 9 days very urgent,Water Issue,9,Market,High
+Uneven road surface,Road Damage,3,Hospital Area,Low
+Pothole causing accidents dangerous situation,Road Damage,1,Hospital Area,Critical
+Water leakage for 6 days,Water Issue,6,School Area,Medium
+Low water pressure in area not fixed yet,Water Issue,6,Hospital Area,Medium
+Water leakage for 3 days,Water Issue,3,Residential,Low
+Frequent power cuts kindly look into this,Electricity,4,Highway,Critical
+Overflowing dustbins near road immediate action needed,Garbage,3,Highway,Critical
+No proper water supply,Water Issue,6,Residential,Medium
+Drain blockage for 9 days,Drainage,9,Market,High
+Low water pressure in area dangerous situation,Water Issue,9,Hospital Area,High
+Electric pole sparking citizens suffering,Electricity,6,Residential,High
+Drain water mixed on road not fixed yet,Drainage,9,School Area,High
+Pothole causing accidents,Road Damage,9,Hospital Area,Critical
+No proper watr supply dangerous situation,Water Issue,2,Hospital Area,High
+Electric pole sparking kindly look into this,Electricity,5,School Area,High
+Drain cleaning required urgently and also Streetlight not working not fixed yet,Drainage,10,Market,High
+Drain blockage for 1 days and also Low water pressure in area causing problems,Drainage,1,Hospital Area,Low
+Water leakage for 6 days and also Overflowing dustbins near road causing problems,Water Issue,6,Hospital Area,Medium
+Garbage not collected for 1 days,Garbage,1,Market,Low
+Low water pressure in area,Water Issue,9,Market,High
+Water leakage for 10 days,Water Issue,10,School Area,High
+Frequent power cuts please resolve soon,Electricity,4,Highway,Critical
+Frequent power cuts very urgent,Electricity,7,Residential,High
+Road sinking problem causing problems,Road Damage,5,Hospital Area,Medium
+Electric pole sparking very urgent,Electricity,5,Hospital Area,High
+Road cracked badly after rain,Road Damage,1,Hospital Area,Low
+Overflowing dustbins near road not fixed yet,Garbage,3,Hospital Area,Low
+Bad smell due to garbage causing problems,Garbage,5,School Area,Medium
+Water logging problem kindly look into this,Drainage,4,School Area,Medium
+Loose eletric wires hanging please resolve soon,Electricity,8,School Area,High
+Overflowing dustbins near road,Garbage,8,Highway,Critical
+Drain cleaning required urgently,Drainage,8,Highway,Critical
+Garbage scattered everywhere kindly look into this,Garbage,8,Residential,High
+Dirty water coming from taps,Water Issue,8,Residential,High
+Drain cleaning required urgently kindly look into this,Drainage,8,Highway,Critical
+Waste dumping issue,Garbage,1,Highway,Critical
+Uneven raod surface,Road Damage,8,Hospital Area,High
+Drain water mixed on road kindly look into this,Drainage,6,Hospital Area,Medium
+Water logging problem immediate action needed,Drainage,5,School Area,Medium
+Garbage not collected for 5 days and also Waste dumping issue,Garbage,5,Hospital Area,Medium
+Drain cleaning required urgently and also Drain cleaning required urgently,Drainage,1,School Area,Low
+Power outage for 6 hours dangerous situation,Electricity,6,Residential,High
+Pipeline burst near market and also Garbage not collected for {} days citizens suffering,Water Issue,5,Highway,Critical
+Pipeline burst near market and also Drain water mixed on road citizens suffering,Water Issue,6,School Area,Medium
+Frequent power cuts not fixed yet,Electricity,9,Residential,High
+Pothole causing accidents causing problems,Road Damage,3,School Area,Critical
+Big pothole near school causing problems,Road Damage,2,Hospital Area,Low
+Garbage not collected for 3 days very urgent,Garbage,3,School Area,Low
+Overflowing dustbins near raod and also Waste dumping issue please resolve soon,Garbage,8,Market,High
+Pothole causing accidents,Road Damage,5,Hospital Area,Critical
+Big pothole near school dangerous situation,Road Damage,2,Highway,Critical
+Drain blockage for 1 days and also Road sinking problem kindly look into this,Drainage,1,Hospital Area,Low
+Electric pole sparking dangerous situation,Electricity,6,Highway,Critical
+Drain cleaning required urgently kindly look into this,Drainage,9,Residential,High
+Pipeline burst near market,Water Issue,10,Market,High
+Road sinking problem,Road Damage,3,Market,Low
+No proper water supply,Water Issue,10,Residential,High
+Big pothole near school kindly look into this,Road Damage,10,Hospital Area,High
+Drain cleaning required urgently immediate action needed,Drainage,6,School Area,Medium
+Frequent power cuts citizens suffering,Electricity,1,Residential,Low
+Garbage not collected for 3 days and also Loose electric wires hanging,Garbage,3,Residential,Low
+Drain blockage for 10 days,Drainage,10,Hospital Area,High
+Waste dumping issue causing problems,Garbage,9,Market,High
+Frequent power cuts citizens suffering,Electricity,3,Market,Low
+Big pothole near school dangerous situation,Road Damage,9,Hospital Area,High
+Water logging problem not fixed yet,Drainage,10,Hospital Area,High
+Low water pressure in area very urgent,Water Issue,7,Residential,High
+Big pothole near school very urgent,Road Damage,1,Hospital Area,Low
+Road cracked badly after rain and also Big pothole near school,Road Damage,10,Market,High
+Sewage overflow,Drainage,3,Market,Low
+No proper water supply and also Road cracked badly after rain since many days,Water Issue,6,Market,Medium
+Bad smell due to garbage dangerous situation,Garbage,9,School Area,High
+Garbage not collected for 1 days and also Garbage scattered everywhere,Garbage,1,Hospital Area,Low
+No proper water supply immediate action needed,Water Issue,8,School Area,High
+Sewage overflow dangerous situation,Drainage,10,Hospital Area,High
+Loose electric wires hanging and also Waste dumping issue causing problems,Electricity,10,Market,High
+Uneven road surface causing problems,Road Damage,2,School Area,Low
+Pothole causing accidents and also Dirty water coming from taps not fixed yet,Road Damage,4,Market,Critical
+Frequent power cuts citizens suffering,Electricity,3,Hospital Area,Low
+Bad smell due to garbage and also Waste dumping issue,Garbage,10,Market,High
+Sewage overflow,Drainage,4,Residential,Medium
+Water logging problem very urgent,Drainage,5,Residential,Medium
+Uneven road surface,Road Damage,2,Market,Low
+No proper water supply kindly look into this,Water Issue,8,Hospital Area,High
+Garbage scattered everywhere kindly look into this,Garbage,3,Highway,Critical
+Water logging problem please resolve soon,Drainage,7,Highway,Critical
+Road cracked badly after rain very urgent,Road Damage,9,Market,High
+Road cracked badly after rain dangerous situation,Road Damage,8,Highway,Critical
+Pothole causing accidents and also Uneven road surface causing problems,Road Damage,7,Highway,Critical
+Road sinking problem and also Water leakage for {} days,Road Damage,1,Highway,Critical
+Garbage scattered everywhere,Garbage,7,School Area,High
+Road cracked badly after rain and also Road sinking problem causing problems,Road Damage,1,Hospital Area,Low
+Electric pole sparking please resolve soon,Electricity,8,Residential,High
+Drain blockage for 5 days and also Electric pole sparking,Drainage,5,Hospital Area,High
+Power outage for 7 hours since many days,Electricity,7,Market,High
+Streetlight not working causing problems,Electricity,6,Highway,Critical
+Waste dumping issue please resolve soon,Garbage,3,School Area,Low
+Water leakage for 3 days and also Dirty water coming from taps immediate action needed,Water Issue,3,Hospital Area,Low
+Waste dumping issue dangerous situation,Garbage,5,Market,High
+Garbage not collected for 1 days and also Big pothole near school,Garbage,1,Residential,Low
+Drain water mixed on road please resolve soon,Drainage,7,Highway,Critical
+No proper water supply since many days,Water Issue,2,School Area,Low
+Uneven road surface and also Sewage overflow,Road Damage,5,Highway,Critical
+Pothole causing accidents not fixed yet,Road Damage,1,Residential,Critical
+Waste dumping issue please resolve soon,Garbage,1,School Area,Low
+Loose electric wires hanging and also Garbage scattered everywhere causing problems,Electricity,2,Hospital Area,Low
+Pipeline burst near market and also Garbage scattered everywhere,Water Issue,9,Highway,Critical
+Pothole causing accidents kindly look into this,Road Damage,9,Market,Critical
+Drain blockage for 1 days and also Low water pressure in area,Drainage,1,School Area,Low
+Drain cleaning required urgently and also Water leakage for {} days dangerous situation,Drainage,9,School Area,High
+Bad smell due to garbage and also Water leakage for {} days please resolve soon,Garbage,3,Residential,Low
+Garbage not collected for 1 days and also Pothole causing accidents causing problems,Garbage,1,Hospital Area,Critical
+Water logging problem and also Dirty water coming from taps kindly look into this,Drainage,5,Market,Medium
+Road sinking problem please resolve soon,Road Damage,6,Residential,Medium
+Bad smell due to garbge causing problems,Garbage,3,School Area,Low
+Streetlight not working citizens suffering,Electricity,7,Hospital Area,High
+Power outage for 4 hours not fixed yet,Electricity,4,School Area,Medium
+No proper water supply and also Dirty water coming from taps since many days,Water Issue,6,Hospital Area,Medium
+Low water pressure in area very urgent,Water Issue,6,Hospital Area,Medium
+Pipeline burst near market and also Road sinking problem kindly look into this,Water Issue,6,Market,Medium
+Power outage for 10 hours and also Pipeline burst near market very urgent,Electricity,10,Market,High
+Power outage for 1 hours kindly look into this,Electricity,1,Hospital Area,Low
+Power outage for 1 hours citizens suffering,Electricity,1,Hospital Area,Low
+Frequent power cuts,Electricity,5,Residential,Medium
+Low water pressure in area and also Water logging problem very urgent,Water Issue,9,Highway,Critical
+Power outage for 3 hours since many days,Electricity,3,Hospital Area,Low
+Drain cleaning required urgently and also Road cracked badly after rain dangerous situation,Drainage,10,Highway,Critical
+Drain water mixed on road,Drainage,9,Hospital Area,High
+Road cracked badly after rain and also Pothole causing accidents dangerous situation,Road Damage,3,Hospital Area,Critical
+Drain blockage for 1 days and also Pothole causing accidents citizens suffering,Drainage,1,Hospital Area,Critical
+Dirty water coming from taps not fixed yet,Water Issue,10,Residential,High
+Low water pressure in area causing problems,Water Issue,4,Market,Medium
+Overflowing dustbins near road causing problems,Garbage,5,Hospital Area,Medium
+Frequent power cuts,Electricity,7,Residential,High
+Loose electric wires hanging immediate action needed,Electricity,2,Market,Low
+Uneven road surface and also Garbage scattered everywhere,Road Damage,9,Market,High
+Frequent power cuts immediate action needed,Electricity,5,Market,Medium
+Power outage for 3 hours not fixed yet,Electricity,3,Residential,Low
+Overflowing dustbins near road and also Road sinking problem causing problems,Garbage,4,Highway,Critical
+Loose electric wires hanging since many days,Electricity,7,Highway,Critical
+Waste dumping issue dangerous situation,Garbage,4,School Area,High
+Pipeline burst near market since many days,Water Issue,3,Hospital Area,Low
+Electric pole sparking and also Water leakage for {} days causing problems,Electricity,9,School Area,High
+Loose electric wires hanging and also Water logging problem since many days,Electricity,7,Market,High
+Drain water mixed on road causing problems,Drainage,5,Market,Medium
+Bad smell due to garbage,Garbage,7,Highway,Critical
+Pothole causing accidents immediate action needed,Road Damage,6,Hospital Area,Critical
+Big pothole near school,Road Damage,2,Hospital Area,Low
+Waste dumping issue and also Pipeline burst near market immediate action needed,Garbage,7,Highway,Critical
+Low water pressure in area very urgent,Water Issue,9,Residential,High
+Waste dumping issue kindly look into this,Garbage,5,Hospital Area,Medium
+Loose electric wires hanging,Electricity,2,Highway,Critical
+Big pothole near school please resolve soon,Road Damage,6,Highway,Critical
+Power outage for 9 hours and also Garbage not collected for {} days kindly look into this,Electricity,9,Market,High
+Garbage scattered everywhere,Garbage,9,Market,High
+Streetlight not working,Electricity,2,Hospital Area,Low
+Dirty water coming from taps,Water Issue,9,Residential,High
+Overflowing dustbins near road dangerous situation,Garbage,3,Residential,High
+No proper water supply not fixed yet,Water Issue,5,Hospital Area,Medium
+Electric pole sparking very urgent,Electricity,2,School Area,High
+Pipeline burst near market and also Waste dumping issue dangerous situation,Water Issue,4,Hospital Area,High
+Overflowing dustbins near raod please resolve soon,Garbage,2,School Area,Low
+Bad smell due to garbage dangerous situation,Garbage,4,Hospital Area,High
+Road cracked badly after rain,Road Damage,10,Market,High
+Overflowing dustbins near road and also Road sinking problem immediate action needed,Garbage,5,Hospital Area,Medium
+Frequent power cuts not fixed yet,Electricity,5,Residential,Medium
+Water logging problem kindly look into this,Drainage,2,Highway,Critical
+Electric pole sparking immediate action needed,Electricity,2,Hospital Area,High
+Streetlight not working not fixed yet,Electricity,10,Residential,High
+Water leakage for 8 days since many days,Water Issue,8,School Area,High
+Drain blockage for 1 days please resolve soon,Drainage,1,Highway,Critical
+Drain water mixed on road kindly look into this,Drainage,6,Highway,Critical
+Road sinking problem immediate action needed,Road Damage,3,Residential,Low
+Pothole causing accidents please resolve soon,Road Damage,2,Market,Critical
+Drain blockage for 10 days and also Water logging problem not fixed yet,Drainage,10,Market,High
+Low water pressure in area and also Waste dumping issue citizens suffering,Water Issue,9,Hospital Area,High
+Sewage overflow causing problems,Drainage,7,Market,High
+Water leakage for 9 days,Water Issue,9,Highway,Critical
+Water leakage for 9 days kindly look into this,Water Issue,9,Hospital Area,High
+Bad smell due to garbage and also Pipeline burst near market please resolve soon,Garbage,2,School Area,Low
+Drain blockage for 8 days,Drainage,8,School Area,High
+Road cracked badly after rain and also Drain blockage for {} days causing problems,Road Damage,1,Hospital Area,Low
+Water logging problem,Drainage,6,Market,Medium
+Water leakage for 7 days and also Low water pressure in area,Water Issue,7,Market,High
+Low water pressure in area not fixed yet,Water Issue,8,Highway,Critical
+Power outage for 7 hours immediate action needed,Electricity,7,Hospital Area,High
+No proper water supply dangerous situation,Water Issue,8,Market,High
+Drain cleaning required urgently and also Dirty water coming from taps,Drainage,9,Residential,High
+Drain blockage for 8 days,Drainage,8,Hospital Area,High
+Low water pressure in area since many days,Water Issue,1,Hospital Area,Low
+Sewage overflow not fixed yet,Drainage,1,Market,Low
+Big pothole near school please resolve soon,Road Damage,6,Residential,Medium
+Frequent power cuts citizens suffering,Electricity,5,School Area,Medium
+Road sinking problem and also Drain water mixed on road very urgent,Road Damage,9,School Area,High
+Big pothole near school and also Road sinking problem not fixed yet,Road Damage,5,Market,Medium
+Electric pole sparking and also Pipeline burst near market citizens suffering,Electricity,4,Highway,Critical
+Garbage scattered everywhere,Garbage,9,Market,High
+Road cracked badly after rain citizens suffering,Road Damage,6,School Area,Medium
+Low watr pressure in area immediate action needed,Water Issue,3,Hospital Area,Low
+Loose electric wires hanging and also Road sinking problem dangerous situation,Electricity,10,Highway,Critical
+Drain blockage for 5 days please resolve soon,Drainage,5,Hospital Area,Medium
+Dirty water coming from taps,Water Issue,2,Hospital Area,Low
+Streetlight not working since many days,Electricity,8,Highway,Critical
+Uneven raod surface dangerous situation,Road Damage,7,Hospital Area,High
+Garbage scattered everywhere,Garbage,9,Residential,High
+Waste dumping issue please resolve soon,Garbage,1,Highway,Critical
+No proper water supply,Water Issue,7,Market,High
+Water logging problem and also Road sinking problem immediate action needed,Drainage,2,Highway,Critical
+Drain watr mixed on road,Drainage,8,School Area,High
+Pipeline burst near market and also Drain water mixed on road immediate action needed,Water Issue,7,Hospital Area,High
+Drain blockage for 3 days,Drainage,3,School Area,Low
+Sewage overflow not fixed yet,Drainage,2,Market,Low
+Garbage scattered everywhere since many days,Garbage,6,Residential,Medium
+Loose electric wires hanging and also Road cracked badly after rain since many days,Electricity,4,School Area,Medium
+Water logging problem,Drainage,3,Residential,Low
+Bad smell due to garbage immediate action needed,Garbage,9,Market,High
+Waste dumping issue,Garbage,2,Highway,Critical
+Road sinking problem citizens suffering,Road Damage,1,School Area,Low
+Water logging problem immediate action needed,Drainage,2,School Area,Low
+Drain water mixed on road kindly look into this,Drainage,7,Highway,Critical
+Garbage not collected for 4 days dangerous situation,Garbage,4,School Area,High
+Road cracked badly after rain causing problems,Road Damage,8,Hospital Area,High
+Drain blockage for 8 days and also Electric pole sparking,Drainage,8,Highway,Critical
+Drain blockage for 7 days kindly look into this,Drainage,7,Highway,Critical
+Waste dumping issue,Garbage,5,School Area,Medium
+Road cracked badly after rain and also Water leakage for {} days immediate action needed,Road Damage,3,Residential,Low
+Drain water mixed on road causing problems,Drainage,6,Market,Medium
+Streetlight not working please resolve soon,Electricity,2,Residential,Low
+Big pothole near school and also Pipeline burst near market,Road Damage,3,Market,Low
+Garbage scattered everywhere immediate action needed,Garbage,1,School Area,Low
+Sewage overflow and also Overflowing dustbins near road causing problems,Drainage,10,Hospital Area,High
+Streetlight not working dangerous situation,Electricity,1,Market,High
+Electric pole sparking,Electricity,1,Market,High
+Garbage not collected for 5 days causing problems,Garbage,5,Residential,Medium
+Sewage overflow citizens suffering,Drainage,4,Highway,Critical
+Big pothole near school please resolve soon,Road Damage,3,Residential,Low
+Water leakage for 7 days and also Loose electric wires hanging causing problems,Water Issue,7,Residential,High
+Water logging problem,Drainage,2,Market,Low
+Road sinking problem immediate action needed,Road Damage,3,Residential,Low
+Road sinking problem not fixed yet,Road Damage,10,School Area,High
+Frequent power cuts,Electricity,3,Market,Low
+Electric pole sparking,Electricity,1,School Area,High
+Uneven road surface kindly look into this,Road Damage,1,School Area,Low
+Uneven road surface and also Uneven road surface,Road Damage,5,Residential,Medium
+Frequent power cuts causing problems,Electricity,3,Market,Low
+Low watr pressure in area and also Uneven road surface please resolve soon,Water Issue,1,Hospital Area,Low
+Waste dumping issue causing problems,Garbage,4,Highway,Critical
+Water leakage for 10 days please resolve soon,Water Issue,10,School Area,High
+Drain blockage for 2 days not fixed yet,Drainage,2,Highway,Critical
+Pipeline burst near market immediate action needed,Water Issue,3,School Area,Low
+Pipeline burst near market,Water Issue,3,Residential,Low
+No proper water supply immediate action needed,Water Issue,4,School Area,Medium
+Frequent power cuts and also Frequent power cuts,Electricity,6,Hospital Area,Medium
+Pipeline burst near market and also Electric pole sparking,Water Issue,10,School Area,High
+Pothole causing accidents and also Frequent power cuts very urgent,Road Damage,5,Highway,Critical
+Water logging problem,Drainage,10,Highway,Critical
+Drain water mixed on road and also Streetlight not working,Drainage,8,School Area,High
+Streetlight not working please resolve soon,Electricity,1,School Area,Low
+Drain cleaning required urgently,Drainage,5,Residential,Medium
+Dirty water coming from taps,Water Issue,6,Market,Medium
+Water logging problem kindly look into this,Drainage,5,Market,Medium
+Water logging problem citizens suffering,Drainage,9,Residential,High
+Electric pole sparking since many days,Electricity,2,Residential,High
+Water logging problem and also Streetlight not working please resolve soon,Drainage,1,Hospital Area,Low
+Frequent power cuts very urgent,Electricity,2,Highway,Critical
+Drain water mixed on road,Drainage,5,School Area,Medium
+Overflowing dustbins near road,Garbage,4,Residential,Medium
+Drain water mixed on road,Drainage,2,Hospital Area,Low
+Water logging problem and also Drain blockage for {} days dangerous situation,Drainage,8,Hospital Area,High
+Waste dumping issue dangerous situation,Garbage,9,Hospital Area,High
+Drain blockage for 10 days kindly look into this,Drainage,10,Hospital Area,High
+Big pothole near school and also Electric pole sparking since many days,Road Damage,4,Highway,Critical
+Pothole causing accidents and also Power outage for {} hours immediate action needed,Road Damage,8,Market,Critical
+Sewage overflow and also Water logging problem since many days,Drainage,4,School Area,Medium
+Low watr pressure in area citizens suffering,Water Issue,7,Residential,High
+Uneven road surface kindly look into this,Road Damage,1,Hospital Area,Low
+Dirty water coming from taps and also Dirty water coming from taps kindly look into this,Water Issue,5,School Area,Medium
+Power outage for 9 hours citizens suffering,Electricity,9,School Area,High
+Bad smell due to garbge dangerous situation,Garbage,10,Hospital Area,High
+Dirty water coming from taps citizens suffering,Water Issue,3,School Area,Low
+Streetlight not working kindly look into this,Electricity,5,Hospital Area,Medium
+Drain watr mixed on road,Drainage,5,Hospital Area,Medium
+Power outage for 6 hours since many days,Electricity,6,Residential,Medium
+Drain blockage for 7 days dangerous situation,Drainage,7,Market,High
+Water leakage for 8 days,Water Issue,8,Hospital Area,High
+Road cracked badly after rain,Road Damage,5,School Area,Medium
+Dirty water coming from taps please resolve soon,Water Issue,2,School Area,Low
+Road sinking problem,Road Damage,1,Residential,Low
+Pothole causing accidents and also Garbage scattered everywhere very urgent,Road Damage,9,School Area,Critical
+Drain water mixed on road kindly look into this,Drainage,7,Hospital Area,High
+Water logging problem,Drainage,3,Market,Low
+Frequent power cuts,Electricity,5,Market,Medium
+Drain blockage for 2 days causing problems,Drainage,2,Highway,Critical
+Streetlight not working,Electricity,7,Residential,High
+Water leakage for 10 days since many days,Water Issue,10,School Area,High
+Water logging problem and also Power outage for {} hours citizens suffering,Drainage,4,Market,Medium
+Drain watr mixed on road and also Uneven road surface,Drainage,2,School Area,Low
+Big pothole near school and also Drain water mixed on road not fixed yet,Road Damage,1,Residential,Low
+Overflowing dustbins near road since many days,Garbage,10,Market,High
+Bad smell due to garbage kindly look into this,Garbage,5,Residential,Medium
+Garbage scattered everywhere and also Garbage scattered everywhere not fixed yet,Garbage,8,Highway,Critical
+Bad smell due to garbge immediate action needed,Garbage,6,Market,Medium
+Loose electric wires hanging,Electricity,9,Market,High
+Drain cleaning required urgently causing problems,Drainage,7,School Area,High
+Garbage not collected for 7 days kindly look into this,Garbage,7,Hospital Area,High
+Road cracked badly after rain kindly look into this,Road Damage,3,Residential,Low
+Low watr pressure in area,Water Issue,3,Highway,Critical
+Bad smell due to garbage very urgent,Garbage,2,Market,Low
+Sewage overflow citizens suffering,Drainage,1,Hospital Area,Low
+Electric pole sparking citizens suffering,Electricity,10,Market,High
+Streetlight not working,Electricity,8,School Area,High
+Drain water mixed on road citizens suffering,Drainage,10,Highway,Critical
+Loose electric wires hanging causing problems,Electricity,2,School Area,Low
+Big pothole near school please resolve soon,Road Damage,1,Market,Low
+Water leakage for 8 days,Water Issue,8,Highway,Critical
+Uneven road surface not fixed yet,Road Damage,4,Market,Medium
+Big pothole near school citizens suffering,Road Damage,4,Market,Medium
+Drain water mixed on road please resolve soon,Drainage,6,School Area,Medium
+Water leakage for 6 days please resolve soon,Water Issue,6,Hospital Area,Medium
+Low watr pressure in area immediate action needed,Water Issue,6,Market,Medium
+Low water pressure in area,Water Issue,2,Hospital Area,Low
+Water logging problem,Drainage,2,Highway,Critical
+Drain blockage for 4 days,Drainage,4,Hospital Area,Medium
+No proper watr supply,Water Issue,10,School Area,High
+Water leakage for 9 days,Water Issue,9,Residential,High
+Drain cleaning required urgently immediate action needed,Drainage,9,School Area,High
+Big pothole near school,Road Damage,10,Residential,High
+Dirty water coming from taps not fixed yet,Water Issue,10,Market,High
+Uneven road surface citizens suffering,Road Damage,6,Market,Medium
+Power outage for 7 hours immediate action needed,Electricity,7,Hospital Area,High
+No proper water supply very urgent,Water Issue,1,Market,Low
+Drain blockage for 2 days since many days,Drainage,2,School Area,Low
+Drain cleaning required urgently dangerous situation,Drainage,4,School Area,High
+Drain water mixed on road,Drainage,1,Residential,Low
+Power outage for 10 hours,Electricity,10,Hospital Area,High
+Water logging problem,Drainage,2,School Area,Low
+Water leakage for 6 days please resolve soon,Water Issue,6,Market,Medium
+Drain cleaning required urgently,Drainage,10,Hospital Area,High
+Drain water mixed on road dangerous situation,Drainage,4,School Area,High
+Drain cleaning required urgently and also Bad smell due to garbge,Drainage,9,Market,High
+Waste dumping issue very urgent,Garbage,5,Highway,Critical
+Electric pole sparking dangerous situation,Electricity,10,Highway,Critical
+No proper watr supply immediate action needed,Water Issue,1,Highway,Critical
+Waste dumping issue and also Overflowing dustbins near road please resolve soon,Garbage,8,Market,High
+Pipeline burst near market causing problems,Water Issue,6,School Area,Medium
+Road cracked badly after rain,Road Damage,4,Market,Medium
+Frequent power cuts citizens suffering,Electricity,8,Hospital Area,High
+Overflowing dustbins near raod and also Streetlight not working since many days,Garbage,3,Hospital Area,Low
+Frequent power cuts and also Water leakage for {} days immediate action needed,Electricity,10,Hospital Area,High
+Big pothole near school please resolve soon,Road Damage,5,School Area,Medium
+Pothole causing accidents please resolve soon,Road Damage,5,Highway,Critical
+Road cracked badly after rain since many days,Road Damage,10,Market,High
+Electric pole sparking and also Big pothole near school dangerous situation,Electricity,4,Residential,High
+Pothole causing accidents since many days,Road Damage,1,School Area,Critical
+Garbage scattered everywhere immediate action needed,Garbage,9,School Area,High
+Low water pressure in area not fixed yet,Water Issue,2,Highway,Critical
+Low water pressure in area kindly look into this,Water Issue,5,Market,Medium
+Power outage for 3 hours causing problems,Electricity,3,Hospital Area,Low
+Dirty water coming from taps and also Drain blockage for {} days causing problems,Water Issue,10,Residential,High
+Pothole causing accidents causing problems,Road Damage,5,Market,Critical
+Water logging problem and also Garbage not collected for {} days dangerous situation,Drainage,1,Residential,High
+Sewage overflow and also Pothole causing accidents very urgent,Drainage,2,Residential,Critical
+Waste dumping issue,Garbage,8,Highway,Critical
+Water leakage for 3 days please resolve soon,Water Issue,3,Residential,Low
+Water logging problem,Drainage,3,Market,Low
+Loose electric wires hanging since many days,Electricity,5,School Area,Medium
+Sewage overflow immediate action needed,Drainage,9,Market,High
+Waste dumping issue,Garbage,5,Hospital Area,Medium
+Electric pole sparking kindly look into this,Electricity,3,School Area,High
+Frequent power cuts dangerous situation,Electricity,3,School Area,High
+Garbage scattered everywhere and also Water logging problem please resolve soon,Garbage,8,Market,High
+Electric pole sparking kindly look into this,Electricity,9,Residential,High
+Drain blockage for 7 days and also Water leakage for {} days not fixed yet,Drainage,7,Market,High
+Streetlight not working since many days,Electricity,8,Highway,Critical
+Drain blockage for 8 days since many days,Drainage,8,School Area,High
+Sewage overflow,Drainage,4,School Area,Medium
+Drain watr mixed on road please resolve soon,Drainage,7,Market,High
+Uneven raod surface since many days,Road Damage,6,School Area,Medium
+Garbage scattered everywhere,Garbage,1,Market,Low
+Waste dumping issue not fixed yet,Garbage,5,Hospital Area,Medium
+Overflowing dustbins near road immediate action needed,Garbage,8,School Area,High
+Pipeline burst near market very urgent,Water Issue,7,Market,High
+Water leakage for 3 days since many days,Water Issue,3,Market,Low
+Bad smell due to garbge since many days,Garbage,5,Hospital Area,Medium
+Power outage for 9 hours,Electricity,9,School Area,High
+Drain water mixed on road citizens suffering,Drainage,4,Highway,Critical
+Road cracked badly after rain and also Water leakage for {} days kindly look into this,Road Damage,7,Market,High
+Drain blockage for 6 days and also Water logging problem,Drainage,6,Residential,Medium
+Drain cleaning required urgently causing problems,Drainage,10,Highway,Critical
+Drain blockage for 10 days causing problems,Drainage,10,School Area,High
+Garbage not collected for 4 days dangerous situation,Garbage,4,Market,High
+Big pothole near school,Road Damage,5,Hospital Area,Medium
+Waste dumping issue,Garbage,5,School Area,Medium
+Frequent power cuts since many days,Electricity,7,Residential,High
+Pipeline burst near market dangerous situation,Water Issue,10,Hospital Area,High
+Frequent power cuts and also Electric pole sparking not fixed yet,Electricity,1,Market,High
+Drain blockage for 8 days please resolve soon,Drainage,8,Highway,Critical
+Bad smell due to garbage causing problems,Garbage,9,Highway,Critical
+No proper water supply and also Dirty water coming from taps immediate action needed,Water Issue,4,Hospital Area,Medium
+Drain water mixed on road,Drainage,4,Highway,Critical
+Big pothole near school and also Water leakage for {} days immediate action needed,Road Damage,4,Residential,Medium
+Drain water mixed on road and also Drain cleaning required urgently,Drainage,5,Hospital Area,Medium
+No proper watr supply and also Big pothole near school citizens suffering,Water Issue,4,Residential,Medium
+Power outage for 6 hours,Electricity,6,Hospital Area,Medium
+Garbage not collected for 4 days causing problems,Garbage,4,Hospital Area,Medium
+Dirty water coming from taps dangerous situation,Water Issue,1,Residential,High
+Water logging problem since many days,Drainage,9,Highway,Critical
+Uneven road surface and also Garbage scattered everywhere kindly look into this,Road Damage,5,Residential,Medium
+Drain blockage for 8 days causing problems,Drainage,8,Market,High
+Waste dumping issue kindly look into this,Garbage,6,Highway,Critical
+Garbage not collected for 10 days causing problems,Garbage,10,School Area,High
+Drain cleaning required urgently,Drainage,9,Hospital Area,High
+Streetlight not working,Electricity,2,Highway,Critical
+Overflowing dustbins near road not fixed yet,Garbage,5,Residential,Medium
+Sewage overflow kindly look into this,Drainage,6,Market,Medium
+Pipeline burst near market citizens suffering,Water Issue,10,Market,High
+Water leakage for 3 days not fixed yet,Water Issue,3,Highway,Critical
+Loose electric wires hanging dangerous situation,Electricity,4,Residential,High
+Streetlight not working,Electricity,9,Market,High
+Drain water mixed on road not fixed yet,Drainage,7,Market,High
+Electric pole sparking,Electricity,7,School Area,High
+Road cracked badly after rain kindly look into this,Road Damage,6,Market,Medium
+Dirty water coming from taps immediate action needed,Water Issue,3,School Area,Low
+Overflowing dustbins near raod,Garbage,7,Hospital Area,High
+Drain cleaning required urgently since many days,Drainage,3,Hospital Area,Low
+Frequent power cuts and also Pipeline burst near market,Electricity,7,Market,High
+No proper water supply immediate action needed,Water Issue,3,School Area,Low
+Low water pressure in area and also Bad smell due to garbage,Water Issue,5,Market,Medium
+Drain cleaning required urgently very urgent,Drainage,4,School Area,Medium
+No proper water supply kindly look into this,Water Issue,3,Highway,Critical
+Sewage overflow and also Big pothole near school,Drainage,10,Residential,High
+Road cracked badly after rain and also Pipeline burst near market since many days,Road Damage,7,Market,High
+Dirty water coming from taps dangerous situation,Water Issue,10,School Area,High
+Electric pole sparking citizens suffering,Electricity,9,Hospital Area,High
+Road sinking problem and also Electric pole sparking since many days,Road Damage,5,Market,High
+Electric pole sparking causing problems,Electricity,6,Highway,Critical
+Water leakage for 9 days citizens suffering,Water Issue,9,School Area,High
+Streetlight not working causing problems,Electricity,7,Market,High
+Low water pressure in area please resolve soon,Water Issue,1,Highway,Critical
+Garbage scattered everywhere,Garbage,9,Residential,High
+Water logging problem and also Low water pressure in area dangerous situation,Drainage,8,Hospital Area,High
+Pothole causing accidents very urgent,Road Damage,6,Residential,Critical
+Road sinking problem very urgent,Road Damage,10,Hospital Area,High
+No proper water supply please resolve soon,Water Issue,1,Residential,Low
+Road sinking problem,Road Damage,2,School Area,Low
+Drain blockage for 9 days causing problems,Drainage,9,Market,High
+Drain blockage for 5 days,Drainage,5,School Area,Medium
+Big pothole near school please resolve soon,Road Damage,7,School Area,High
+Road sinking problem,Road Damage,3,Residential,Low
+Uneven road surface dangerous situation,Road Damage,9,Market,High
+Frequent power cuts causing problems,Electricity,6,School Area,Medium
+Drain blockage for 1 days please resolve soon,Drainage,1,School Area,Low
+Garbage not collected for 9 days please resolve soon,Garbage,9,Highway,Critical
+Frequent power cuts,Electricity,10,Highway,Critical
+Streetlight not working very urgent,Electricity,10,Hospital Area,High
+Sewage overflow not fixed yet,Drainage,2,Market,Low
+Bad smell due to garbage and also Frequent power cuts,Garbage,6,Highway,Critical
+Garbage not collected for 5 days and also Bad smell due to garbage,Garbage,5,School Area,Medium
+Streetlight not working kindly look into this,Electricity,4,Hospital Area,Medium
+Electric pole sparking causing problems,Electricity,6,Highway,Critical
+Overflowing dustbins near road causing problems,Garbage,4,Highway,Critical
+Uneven road surface immediate action needed,Road Damage,5,Hospital Area,Medium
+Streetlight not working,Electricity,3,Highway,Critical
+Sewage overflow very urgent,Drainage,1,Hospital Area,Low
+Pipeline burst near market very urgent,Water Issue,4,Residential,Medium
+Low water pressure in area and also Waste dumping issue causing problems,Water Issue,8,Hospital Area,High
+Uneven road surface,Road Damage,2,Market,Low
+Overflowing dustbins near road and also Water logging problem citizens suffering,Garbage,4,Highway,Critical
+Bad smell due to garbage immediate action needed,Garbage,1,School Area,Low
+Frequent power cuts citizens suffering,Electricity,2,School Area,Low
+Road cracked badly after rain since many days,Road Damage,6,School Area,Medium
+Big pothole near school,Road Damage,2,Residential,Low
+No proper water supply,Water Issue,1,Hospital Area,Low
+Loose eletric wires hanging immediate action needed,Electricity,6,Hospital Area,Medium
+Uneven road surface very urgent,Road Damage,9,Residential,High
+Bad smell due to garbage,Garbage,9,Highway,Critical
+Uneven road surface and also No proper water supply dangerous situation,Road Damage,5,Hospital Area,High
+Drain water mixed on road and also Sewage overflow dangerous situation,Drainage,10,Market,High
+Drain blockage for 3 days very urgent,Drainage,3,Hospital Area,Low
+Pipeline burst near market very urgent,Water Issue,7,Highway,Critical
+Electric pole sparking and also Garbage scattered everywhere,Electricity,2,Hospital Area,High
+Drain watr mixed on road and also Electric pole sparking causing problems,Drainage,7,School Area,High
+Streetlight not working,Electricity,7,Highway,Critical
+Frequent power cuts not fixed yet,Electricity,8,Highway,Critical
+Electric pole sparking,Electricity,2,Highway,Critical
+Garbage scattered everywhere kindly look into this,Garbage,7,Market,High
+Overflowing dustbins near road and also No proper water supply,Garbage,9,Hospital Area,High
+Drain cleaning required urgently causing problems,Drainage,5,Hospital Area,Medium
+Road cracked badly after rain since many days,Road Damage,7,Highway,Critical
+Sewage overflow causing problems,Drainage,7,Hospital Area,High
+Streetlight not working not fixed yet,Electricity,2,Hospital Area,Low
+Pipeline burst near market and also Loose eletric wires hanging please resolve soon,Water Issue,2,Highway,Critical
+Streetlight not working and also Frequent power cuts dangerous situation,Electricity,5,School Area,High
+Water logging problem citizens suffering,Drainage,2,Market,Low
+Frequent power cuts and also Low water pressure in area immediate action needed,Electricity,4,Highway,Critical
+Electric pole sparking since many days,Electricity,2,Residential,High
+Electric pole sparking,Electricity,7,School Area,High
+Overflowing dustbins near road not fixed yet,Garbage,4,School Area,Medium
+Drain cleaning required urgently please resolve soon,Drainage,5,Market,Medium
+Garbage scattered everywhere immediate action needed,Garbage,5,Highway,Critical
+Big pothole near school and also Power outage for {} hours not fixed yet,Road Damage,5,School Area,Medium
+Big pothole near school,Road Damage,1,School Area,Low
+Pipeline burst near market not fixed yet,Water Issue,8,Highway,Critical
+Electric pole sparking causing problems,Electricity,1,Residential,High
+Electric pole sparking,Electricity,10,Hospital Area,High
+Water leakage for 2 days citizens suffering,Water Issue,2,School Area,Low
+Road cracked badly after rain kindly look into this,Road Damage,10,Residential,High
+Pothole causing accidents,Road Damage,4,Market,Critical
+Dirty watr coming from taps causing problems,Water Issue,5,School Area,Medium
+Electric pole sparking and also Pothole causing accidents,Electricity,10,School Area,Critical
+Road cracked badly after rain not fixed yet,Road Damage,1,Market,Low
+Power outage for 1 hours,Electricity,1,Highway,Critical
+Power outage for 1 hours immediate action needed,Electricity,1,Market,Low
+Road cracked badly after rain,Road Damage,4,Residential,Medium
+Road sinking problem very urgent,Road Damage,6,School Area,Medium
+No proper water supply and also Pothole causing accidents citizens suffering,Water Issue,8,School Area,Critical
+Big pothole near school,Road Damage,9,Market,High
+Pothole causing accidents dangerous situation,Road Damage,3,Residential,Critical
+Dirty watr coming from taps citizens suffering,Water Issue,6,Highway,Critical
+Road cracked badly after rain,Road Damage,4,Hospital Area,Medium
+No proper water supply citizens suffering,Water Issue,7,Market,High
+Uneven road surface,Road Damage,1,Market,Low
+Sewage overflow dangerous situation,Drainage,1,Residential,High
+Bad smell due to garbage dangerous situation,Garbage,9,Residential,High
+Road cracked badly after rain very urgent,Road Damage,9,Highway,Critical
+Drain water mixed on road not fixed yet,Drainage,7,Hospital Area,High
+Water leakage for 1 days and also Low water pressure in area please resolve soon,Water Issue,1,Highway,Critical
+Water logging problem very urgent,Drainage,9,Hospital Area,High
+Road cracked badly after rain please resolve soon,Road Damage,7,Hospital Area,High
+Garbage not collected for 8 days,Garbage,8,Market,High
+Loose eletric wires hanging very urgent,Electricity,6,School Area,Medium
+Drain cleaning required urgently immediate action needed,Drainage,8,Market,High
+Waste dumping issue citizens suffering,Garbage,9,School Area,High
+Garbage not collected for 2 days very urgent,Garbage,2,Hospital Area,Low
+Electric pole sparking,Electricity,7,Hospital Area,High
+Bad smell due to garbage and also Garbage not collected for {} days not fixed yet,Garbage,6,Residential,Medium
+Water leakage for 4 days very urgent,Water Issue,4,School Area,Medium
+Water leakage for 1 days citizens suffering,Water Issue,1,Market,Low
+Water leakage for 6 days and also Frequent power cuts,Water Issue,6,Market,Medium
+Loose electric wires hanging,Electricity,6,Market,Medium
+Low water pressure in area,Water Issue,7,Market,High
+Bad smell due to garbage,Garbage,8,Residential,High
+Pothole causing accidents kindly look into this,Road Damage,6,Market,Critical
+Overflowing dustbins near road please resolve soon,Garbage,5,School Area,Medium
+Water leakage for 1 days and also Loose electric wires hanging dangerous situation,Water Issue,1,School Area,High
+Road cracked badly after rain and also Loose electric wires hanging immediate action needed,Road Damage,7,Hospital Area,High
+Water logging problem citizens suffering,Drainage,9,School Area,High
+Road sinking problem dangerous situation,Road Damage,7,Market,High
+Dirty water coming from taps immediate action needed,Water Issue,7,Market,High
+Overflowing dustbins near road and also Loose electric wires hanging immediate action needed,Garbage,3,School Area,Low
+Streetlight not working citizens suffering,Electricity,4,School Area,Medium
+Sewage overflow causing problems,Drainage,9,Market,High
+Garbage scattered everywhere,Garbage,7,Market,High
+Bad smell due to garbge citizens suffering,Garbage,5,Hospital Area,Medium
+Uneven raod surface please resolve soon,Road Damage,1,Hospital Area,Low
+Dirty water coming from taps,Water Issue,5,School Area,Medium
+Sewage overflow,Drainage,6,Highway,Critical
+Drain cleaning required urgently,Drainage,10,Residential,High
+Bad smell due to garbge,Garbage,3,School Area,Low
+Water leakage for 10 days and also Water leakage for {} days kindly look into this,Water Issue,10,Residential,High
+Big pothole near school and also Bad smell due to garbage causing problems,Road Damage,10,Residential,High
+Uneven raod surface dangerous situation,Road Damage,8,Residential,High
+Water leakage for 4 days,Water Issue,4,Highway,Critical
+Electric pole sparking and also Sewage overflow,Electricity,6,Market,High
+Overflowing dustbins near road not fixed yet,Garbage,10,Market,High
+Drain blockage for 4 days and also Power outage for {} hours causing problems,Drainage,4,Residential,Medium
+Drain cleaning required urgently immediate action needed,Drainage,1,Market,Low
+Waste dumping issue,Garbage,4,Hospital Area,Medium
+Pothole causing accidents immediate action needed,Road Damage,10,Market,Critical
+Power outage for 1 hours immediate action needed,Electricity,1,Market,Low
+Road sinking problem immediate action needed,Road Damage,2,School Area,Low
+Power outage for 9 hours since many days,Electricity,9,School Area,High
+Pipeline burst near market,Water Issue,6,School Area,Medium
+Water leakage for 1 days very urgent,Water Issue,1,Highway,Critical
+Water leakage for 3 days and also Dirty water coming from taps since many days,Water Issue,3,Residential,Low
+Power outage for 6 hours and also Drain blockage for {} days please resolve soon,Electricity,6,Market,Medium
+Uneven road surface dangerous situation,Road Damage,6,School Area,High
+Power outage for 10 hours,Electricity,10,Highway,Critical
+Loose electric wires hanging,Electricity,1,Residential,Low
+Frequent power cuts since many days,Electricity,7,Hospital Area,High
+Streetlight not working dangerous situation,Electricity,1,Hospital Area,High
+Dirty watr coming from taps and also Road cracked badly after rain kindly look into this,Water Issue,1,School Area,Low
+Pipeline burst near market citizens suffering,Water Issue,10,Highway,Critical
+Pipeline burst near market and also Drain watr mixed on road not fixed yet,Water Issue,8,Residential,High
+Low water pressure in area kindly look into this,Water Issue,3,School Area,Low
+Loose electric wires hanging and also Water leakage for {} days,Electricity,1,Hospital Area,Low
+Frequent power cuts,Electricity,6,School Area,Medium
+Water logging problem since many days,Drainage,6,Highway,Critical
+Overflowing dustbins near raod not fixed yet,Garbage,2,Highway,Critical
+Big pothole near school and also Pothole causing accidents,Road Damage,2,School Area,Critical
+Pipeline burst near market,Water Issue,4,Hospital Area,Medium
+Water leakage for 5 days since many days,Water Issue,5,School Area,Medium
+Streetlight not working and also Uneven road surface,Electricity,10,Hospital Area,High
+Big pothole near school and also Water leakage for {} days please resolve soon,Road Damage,7,Hospital Area,High
+Garbage scattered everywhere kindly look into this,Garbage,10,Market,High
+Garbage scattered everywhere and also Bad smell due to garbage please resolve soon,Garbage,8,Market,High
+Drain blockage for 6 days please resolve soon,Drainage,6,Hospital Area,Medium
+Road cracked badly after rain immediate action needed,Road Damage,5,Hospital Area,Medium
+Drain blockage for 1 days and also Power outage for {} hours,Drainage,1,Hospital Area,Low
+Dirty water coming from taps very urgent,Water Issue,4,Hospital Area,Medium
+No proper water supply and also Power outage for {} hours not fixed yet,Water Issue,5,Market,Medium
+Dirty water coming from taps,Water Issue,9,School Area,High
+Drain cleaning required urgently and also Garbage scattered everywhere very urgent,Drainage,3,Market,Low
+Drain cleaning required urgently and also Sewage overflow,Drainage,6,Highway,Critical
+Pipeline burst near market since many days,Water Issue,4,Highway,Critical
+Road cracked badly after rain citizens suffering,Road Damage,8,Hospital Area,High
+Garbage not collected for 6 days,Garbage,6,Market,Medium
+Pothole causing accidents since many days,Road Damage,9,Market,Critical
+Big pothole near school,Road Damage,9,Highway,Critical
+Sewage overflow and also Streetlight not working causing problems,Drainage,10,Highway,Critical
+Loose electric wires hanging since many days,Electricity,10,Highway,Critical
+Loose electric wires hanging and also Sewage overflow causing problems,Electricity,4,Highway,Critical
+Bad smell due to garbage citizens suffering,Garbage,9,School Area,High
+Power outage for 4 hours citizens suffering,Electricity,4,Residential,Medium
+Waste dumping issue citizens suffering,Garbage,2,Hospital Area,Low
+Drain blockage for 3 days dangerous situation,Drainage,3,Hospital Area,High
+Road sinking problem and also Dirty water coming from taps dangerous situation,Road Damage,10,School Area,High
+Water leakage for 1 days kindly look into this,Water Issue,1,Residential,Low
+Dirty water coming from taps causing problems,Water Issue,8,School Area,High
+Drain blockage for 8 days very urgent,Drainage,8,Market,High
+No proper water supply and also Garbage scattered everywhere,Water Issue,2,Residential,Low
+Loose electric wires hanging citizens suffering,Electricity,7,Market,High
+Water logging problem,Drainage,4,School Area,Medium
+Drain cleaning required urgently please resolve soon,Drainage,4,School Area,Medium
+Big pothole near school not fixed yet,Road Damage,5,Market,Medium
+Road cracked badly after rain,Road Damage,6,Market,Medium
+Bad smell due to garbage,Garbage,1,Market,Low
+Garbage not collected for 4 days and also Pothole causing accidents,Garbage,4,Market,Critical
+Pipeline burst near market and also Pothole causing accidents very urgent,Water Issue,7,Market,Critical
+Garbage not collected for 7 days please resolve soon,Garbage,7,Residential,High
+Frequent power cuts dangerous situation,Electricity,3,Hospital Area,High
+Pipeline burst near market immediate action needed,Water Issue,6,Residential,Medium
+Road cracked badly after rain immediate action needed,Road Damage,8,School Area,High
+Low water pressure in area,Water Issue,9,Residential,High
+Streetlight not working please resolve soon,Electricity,10,Highway,Critical
+Garbage not collected for 10 days citizens suffering,Garbage,10,Market,High
+Pothole causing accidents and also Drain water mixed on road dangerous situation,Road Damage,9,Market,Critical
+Electric pole sparking and also Pipeline burst near market causing problems,Electricity,4,Hospital Area,High
+Low water pressure in area causing problems,Water Issue,4,Highway,Critical
+Overflowing dustbins near road and also Dirty water coming from taps since many days,Garbage,4,Highway,Critical
+Loose electric wires hanging dangerous situation,Electricity,9,Residential,High
+Road cracked badly after rain not fixed yet,Road Damage,10,School Area,High
+Overflowing dustbins near road please resolve soon,Garbage,8,Hospital Area,High
+Road cracked badly after rain,Road Damage,6,Hospital Area,Medium
+Garbage not collected for 2 days very urgent,Garbage,2,Highway,Critical
+Frequent power cuts citizens suffering,Electricity,9,Hospital Area,High
+Pothole causing accidents not fixed yet,Road Damage,10,Highway,Critical
+Garbage scattered everywhere,Garbage,2,School Area,Low
+Power outage for 4 hours immediate action needed,Electricity,4,Hospital Area,Medium
+Electric pole sparking please resolve soon,Electricity,3,Residential,High
+Garbage not collected for 8 days dangerous situation,Garbage,8,Residential,High
+Dirty water coming from taps kindly look into this,Water Issue,6,Hospital Area,Medium
+Garbage scattered everywhere citizens suffering,Garbage,8,Market,High
+Road sinking problem,Road Damage,7,School Area,High
+Bad smell due to garbage citizens suffering,Garbage,7,Market,High
+Drain cleaning required urgently and also Drain water mixed on road not fixed yet,Drainage,1,Residential,Low
+Road cracked badly after rain citizens suffering,Road Damage,1,Market,Low
+Garbage not collected for 2 days and also Electric pole sparking please resolve soon,Garbage,2,Hospital Area,High
+Bad smell due to garbage and also Waste dumping issue,Garbage,6,Hospital Area,Medium
+Sewage overflow kindly look into this,Drainage,2,School Area,Low
+Streetlight not working causing problems,Electricity,4,Residential,Medium
+Frequent power cuts and also Power outage for {} hours not fixed yet,Electricity,2,Highway,Critical
+No proper water supply,Water Issue,9,School Area,High
+Dirty water coming from taps dangerous situation,Water Issue,1,Hospital Area,High
+Dirty water coming from taps very urgent,Water Issue,3,Highway,Critical
+Garbage not collected for 10 days kindly look into this,Garbage,10,Highway,Critical
+Pothole causing accidents,Road Damage,10,Hospital Area,Critical
+Waste dumping issue,Garbage,3,Residential,Low
+Dirty watr coming from taps immediate action needed,Water Issue,6,Market,Medium
+Dirty water coming from taps citizens suffering,Water Issue,1,Residential,Low
+Pipeline burst near market causing problems,Water Issue,5,School Area,Medium
+No proper water supply and also Frequent power cuts please resolve soon,Water Issue,6,Highway,Critical
+Garbage not collected for 8 days and also Bad smell due to garbage please resolve soon,Garbage,8,Highway,Critical
+Overflowing dustbins near road and also Electric pole sparking dangerous situation,Garbage,4,Market,High
+Low water pressure in area causing problems,Water Issue,5,Residential,Medium
+Uneven raod surface dangerous situation,Road Damage,9,Highway,Critical
+Road sinking problem and also Sewage overflow,Road Damage,6,Hospital Area,Medium
+Electric pole sparking and also Bad smell due to garbage,Electricity,9,Market,High
+Water leakage for 9 days and also Garbage scattered everywhere,Water Issue,9,School Area,High
+Loose eletric wires hanging,Electricity,7,Residential,High
+Loose eletric wires hanging,Electricity,5,Hospital Area,Medium
+Drain water mixed on road citizens suffering,Drainage,4,Hospital Area,Medium
+Big pothole near school since many days,Road Damage,1,School Area,Low
+Pipeline burst near market and also Garbage not collected for {} days,Water Issue,5,Highway,Critical
+Drain cleaning required urgently immediate action needed,Drainage,2,Hospital Area,Low
+Waste dumping issue not fixed yet,Garbage,2,Residential,Low
+Garbage not collected for 2 days and also Drain blockage for {} days dangerous situation,Garbage,2,Hospital Area,High
+Power outage for 5 hours,Electricity,5,Highway,Critical
+Road cracked badly after rain causing problems,Road Damage,8,Hospital Area,High
+Garbage scattered everywhere very urgent,Garbage,2,Highway,Critical
+No proper water supply not fixed yet,Water Issue,4,Hospital Area,Medium
+Sewage overflow not fixed yet,Drainage,2,Hospital Area,Low
+Drain cleaning required urgently very urgent,Drainage,5,Residential,Medium
+Sewage overflow and also Overflowing dustbins near road,Drainage,7,Hospital Area,High
+Loose electric wires hanging immediate action needed,Electricity,10,Highway,Critical
+Power outage for 2 hours,Electricity,2,School Area,Low
+Dirty watr coming from taps please resolve soon,Water Issue,3,Hospital Area,Low
+Electric pole sparking and also Dirty water coming from taps,Electricity,10,School Area,High
+Water leakage for 5 days and also Road sinking problem since many days,Water Issue,5,Market,Medium
+Road cracked badly after rain kindly look into this,Road Damage,5,Residential,Medium
+No proper water supply and also Uneven road surface please resolve soon,Water Issue,5,School Area,Medium
+No proper watr supply and also Dirty watr coming from taps kindly look into this,Water Issue,6,School Area,Medium
+Pipeline burst near market causing problems,Water Issue,10,Highway,Critical
+Power outage for 7 hours dangerous situation,Electricity,7,Market,High
+Water leakage for 2 days please resolve soon,Water Issue,2,Hospital Area,Low
+Garbage scattered everywhere immediate action needed,Garbage,6,Market,Medium
+Water logging problem very urgent,Drainage,8,School Area,High
+Frequent power cuts immediate action needed,Electricity,2,Highway,Critical
+Uneven road surface,Road Damage,1,School Area,Low
+Uneven road surface dangerous situation,Road Damage,4,Highway,Critical
+Electric pole sparking and also Drain watr mixed on road since many days,Electricity,8,Residential,High
+Drain blockage for 8 days and also Garbage not collected for {} days,Drainage,8,Highway,Critical
+Garbage not collected for 8 days causing problems,Garbage,8,Highway,Critical
+Uneven road surface causing problems,Road Damage,3,Highway,Critical
+Loose electric wires hanging kindly look into this,Electricity,9,Residential,High
+Garbage not collected for 3 days causing problems,Garbage,3,Market,Low
+Garbage not collected for 6 days,Garbage,6,Residential,Medium
+Uneven road surface immediate action needed,Road Damage,5,Residential,Medium
+Drain blockage for 1 days,Drainage,1,Highway,Critical
+Sewage overflow kindly look into this,Drainage,6,Highway,Critical
+No proper water supply kindly look into this,Water Issue,6,Market,Medium
+Big pothole near school and also Pipeline burst near market,Road Damage,3,Market,Low
+No proper water supply and also Streetlight not working please resolve soon,Water Issue,3,Hospital Area,Low
+Water leakage for 5 days causing problems,Water Issue,5,Hospital Area,Medium
+Frequent power cuts,Electricity,3,Hospital Area,Low
+Loose electric wires hanging citizens suffering,Electricity,10,Residential,High
+Road cracked badly after rain dangerous situation,Road Damage,9,Residential,High
+Bad smell due to garbge dangerous situation,Garbage,9,Hospital Area,High
+Water leakage for 4 days,Water Issue,4,School Area,Medium
+Drain water mixed on road and also Overflowing dustbins near road,Drainage,10,Market,High
+Waste dumping issue immediate action needed,Garbage,8,Market,High
+Drain cleaning required urgently,Drainage,3,Market,Low
+Sewage overflow and also Garbage not collected for {} days causing problems,Drainage,4,Hospital Area,Medium
+Pothole causing accidents,Road Damage,6,Market,Critical
+Bad smell due to garbage very urgent,Garbage,3,School Area,Low
+Low water pressure in area and also Electric pole sparking not fixed yet,Water Issue,8,Hospital Area,High
+Sewage overflow causing problems,Drainage,5,School Area,Medium
+Pipeline burst near market please resolve soon,Water Issue,6,School Area,Medium
+Uneven road surface citizens suffering,Road Damage,6,Market,Medium
+Frequent power cuts please resolve soon,Electricity,10,Residential,High
+Pipeline burst near market and also Sewage overflow,Water Issue,7,Market,High
+Low water pressure in area and also Electric pole sparking since many days,Water Issue,1,Highway,Critical
+Drain cleaning required urgently and also Overflowing dustbins near road please resolve soon,Drainage,9,Highway,Critical
+Waste dumping issue,Garbage,4,Residential,Medium
+Garbage scattered everywhere and also Road sinking problem,Garbage,8,Residential,High
+Drain blockage for 2 days immediate action needed,Drainage,2,Highway,Critical
+Streetlight not working and also Water logging problem,Electricity,7,School Area,High
+Big pothole near school very urgent,Road Damage,4,Highway,Critical
+Power outage for 6 hours and also Big pothole near school very urgent,Electricity,6,Hospital Area,Medium
+Road sinking problem and also Waste dumping issue,Road Damage,2,School Area,Low
+Drain water mixed on road and also Water logging problem,Drainage,9,School Area,High
+Uneven raod surface citizens suffering,Road Damage,3,School Area,Low
+Uneven road surface and also Road sinking problem very urgent,Road Damage,4,Hospital Area,Medium
+Road sinking problem very urgent,Road Damage,9,Hospital Area,High
+Garbage not collected for 3 days since many days,Garbage,3,Residential,Low
+Water logging problem causing problems,Drainage,7,Residential,High
+Big pothole near school,Road Damage,8,Residential,High
+Sewage overflow dangerous situation,Drainage,9,School Area,High
+Sewage overflow,Drainage,7,Market,High
+Frequent power cuts and also Streetlight not working please resolve soon,Electricity,1,School Area,Low
+Water leakage for 5 days citizens suffering,Water Issue,5,School Area,Medium
+Power outage for 10 hours and also Sewage overflow immediate action needed,Electricity,10,Hospital Area,High
+Sewage overflow,Drainage,2,Hospital Area,Low
+Drain water mixed on road kindly look into this,Drainage,1,Hospital Area,Low
+Frequent power cuts since many days,Electricity,3,Highway,Critical
+Road sinking problem,Road Damage,10,Residential,High
+Garbage scattered everywhere and also Drain cleaning required urgently citizens suffering,Garbage,8,Hospital Area,High
+Pothole causing accidents and also Road sinking problem,Road Damage,9,School Area,Critical
+Water logging problem,Drainage,5,Highway,Critical
+Drain cleaning required urgently,Drainage,1,Market,Low
+Drain cleaning required urgently immediate action needed,Drainage,5,Hospital Area,Medium
+Overflowing dustbins near road,Garbage,9,Residential,High
+Road sinking problem and also Sewage overflow causing problems,Road Damage,7,Highway,Critical
+Low water pressure in area dangerous situation,Water Issue,2,Market,High
+Water leakage for 10 days not fixed yet,Water Issue,10,Residential,High
+Drain cleaning required urgently and also Road sinking problem immediate action needed,Drainage,1,Market,Low
+Frequent power cuts and also Road sinking problem citizens suffering,Electricity,9,School Area,High
+Pothole causing accidents and also Water leakage for {} days very urgent,Road Damage,8,School Area,Critical
+Streetlight not working dangerous situation,Electricity,10,Hospital Area,High
+Frequent power cuts very urgent,Electricity,5,Market,Medium
+Garbage scattered everywhere very urgent,Garbage,7,Market,High
+Sewage overflow not fixed yet,Drainage,5,School Area,Medium
+Water leakage for 5 days and also No proper water supply dangerous situation,Water Issue,5,Hospital Area,High
+Overflowing dustbins near road immediate action needed,Garbage,10,Market,High
+Road cracked badly after rain since many days,Road Damage,4,School Area,Medium
+Pothole causing accidents and also Frequent power cuts,Road Damage,4,Highway,Critical
+Garbage not collected for 1 days causing problems,Garbage,1,Hospital Area,Low
+Pipeline burst near market not fixed yet,Water Issue,2,School Area,Low
+Big pothole near school very urgent,Road Damage,4,Hospital Area,Medium
+Power outage for 9 hours kindly look into this,Electricity,9,Highway,Critical
+Drain water mixed on road kindly look into this,Drainage,5,Residential,Medium
+Water leakage for 3 days,Water Issue,3,Residential,Low
+Streetlight not working,Electricity,2,School Area,Low
+Garbage scattered everywhere and also Power outage for {} hours immediate action needed,Garbage,5,Residential,Medium
+Pipeline burst near market,Water Issue,8,Hospital Area,High
+Drain blockage for 2 days please resolve soon,Drainage,2,Residential,Low
+Overflowing dustbins near road and also Drain cleaning required urgently not fixed yet,Garbage,1,Highway,Critical
+Pipeline burst near market and also Garbage scattered everywhere,Water Issue,8,Market,High
+Pipeline burst near market,Water Issue,1,Market,Low
+Garbage not collected for 9 days kindly look into this,Garbage,9,School Area,High
+Road sinking problem please resolve soon,Road Damage,4,Highway,Critical
+No proper water supply,Water Issue,10,School Area,High
+Power outage for 10 hours,Electricity,10,Residential,High
+Water leakage for 6 days immediate action needed,Water Issue,6,School Area,Medium
+Drain blockage for 8 days and also Water logging problem,Drainage,8,Hospital Area,High
+Frequent power cuts,Electricity,3,Highway,Critical
+Frequent power cuts,Electricity,8,Market,High
+Drain blockage for 3 days,Drainage,3,Highway,Critical
+Frequent power cuts immediate action needed,Electricity,4,School Area,Medium
+Frequent power cuts immediate action needed,Electricity,3,Market,Low
+Waste dumping issue very urgent,Garbage,10,Highway,Critical
+Electric pole sparking very urgent,Electricity,1,Hospital Area,High
+Water leakage for 2 days and also Low water pressure in area,Water Issue,2,Residential,Low
+Pipeline burst near market and also Big pothole near school,Water Issue,7,School Area,High
+Water leakage for 1 days immediate action needed,Water Issue,1,Highway,Critical
+No proper water supply and also Drain blockage for {} days,Water Issue,4,School Area,Medium
+Pothole causing accidents,Road Damage,9,School Area,Critical
+Dirty watr coming from taps citizens suffering,Water Issue,4,Highway,Critical
+Frequent power cuts dangerous situation,Electricity,3,Market,High
+Pipeline burst near market,Water Issue,1,Residential,Low
+Pipeline burst near market kindly look into this,Water Issue,6,Residential,Medium
+Waste dumping issue dangerous situation,Garbage,7,Hospital Area,High
+Electric pole sparking,Electricity,1,Highway,Critical
+Garbage not collected for 4 days citizens suffering,Garbage,4,School Area,Medium
+Garbage scattered everywhere causing problems,Garbage,8,Residential,High
+Drain blockage for 7 days and also Electric pole sparking dangerous situation,Drainage,7,Residential,High
+Sewage overflow and also Garbage not collected for {} days,Drainage,1,Highway,Critical
+Drain blockage for 5 days and also Uneven road surface since many days,Drainage,5,Highway,Critical
+Drain water mixed on road please resolve soon,Drainage,10,Residential,High
+Dirty watr coming from taps,Water Issue,1,Highway,Critical
+Drain blockage for 9 days,Drainage,9,Market,High
+Road sinking problem and also Overflowing dustbins near road citizens suffering,Road Damage,3,Highway,Critical
+Low water pressure in area,Water Issue,2,School Area,Low
+Road cracked badly after rain kindly look into this,Road Damage,9,School Area,High
+Dirty water coming from taps causing problems,Water Issue,9,School Area,High
+Road sinking problem causing problems,Road Damage,4,Hospital Area,Medium
+Water logging problem and also Big pothole near school,Drainage,5,Hospital Area,Medium
+Road sinking problem please resolve soon,Road Damage,9,Market,High
+Road sinking problem kindly look into this,Road Damage,7,Market,High
+Drain blockage for 1 days since many days,Drainage,1,Residential,Low
+Overflowing dustbins near road and also Garbage scattered everywhere since many days,Garbage,7,Market,High
+Water logging problem kindly look into this,Drainage,7,Hospital Area,High
+Drain cleaning required urgently and also Sewage overflow citizens suffering,Drainage,4,Highway,Critical
+Frequent power cuts and also No proper watr supply citizens suffering,Electricity,2,Residential,Low
+Uneven road surface and also Sewage overflow not fixed yet,Road Damage,1,Market,Low
+Garbage not collected for 9 days and also Uneven road surface,Garbage,9,Market,High
+Dirty water coming from taps dangerous situation,Water Issue,4,School Area,High
+Garbage scattered everywhere,Garbage,3,Market,Low
+Uneven road surface,Road Damage,7,Hospital Area,High
+No proper water supply and also Water leakage for {} days,Water Issue,8,School Area,High
+Overflowing dustbins near road,Garbage,3,Market,Low
+Pipeline burst near market kindly look into this,Water Issue,3,School Area,Low
+Garbage scattered everywhere not fixed yet,Garbage,7,School Area,High
+Water logging problem,Drainage,1,School Area,Low
+Electric pole sparking very urgent,Electricity,7,Residential,High
+Loose electric wires hanging and also Drain watr mixed on road causing problems,Electricity,7,Highway,Critical
+Drain cleaning required urgently not fixed yet,Drainage,5,School Area,Medium
+Waste dumping issue,Garbage,6,School Area,Medium
+Water leakage for 10 days immediate action needed,Water Issue,10,Highway,Critical
+Water logging problem kindly look into this,Drainage,8,School Area,High
+Pipeline burst near market,Water Issue,2,Highway,Critical
+Streetlight not working not fixed yet,Electricity,3,Residential,Low
+Garbage not collected for 10 days please resolve soon,Garbage,10,Residential,High
+Road cracked badly after rain not fixed yet,Road Damage,5,Hospital Area,Medium
+Low water pressure in area,Water Issue,9,Hospital Area,High
+Low water pressure in area and also Frequent power cuts,Water Issue,10,Highway,Critical
+Bad smell due to garbage,Garbage,8,Residential,High
+Road sinking problem not fixed yet,Road Damage,2,School Area,Low
+Overflowing dustbins near road,Garbage,6,School Area,Medium
+Drain blockage for 3 days kindly look into this,Drainage,3,Hospital Area,Low
+Road cracked badly after rain citizens suffering,Road Damage,3,Hospital Area,Low
+Drain blockage for 1 days citizens suffering,Drainage,1,Market,Low
+Road cracked badly after rain immediate action needed,Road Damage,3,School Area,Low
+Low water pressure in area citizens suffering,Water Issue,8,Residential,High
+Uneven road surface very urgent,Road Damage,7,School Area,High
+Water logging problem and also Water logging problem,Drainage,7,Hospital Area,High

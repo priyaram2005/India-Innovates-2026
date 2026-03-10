@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CIVIC-AI Smart Complaint System</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+    <!-- Chart.js CDN (Required for Dashboard Charts) -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<div class="container">
+
+    <h1>CIVIC-AI</h1>
+    <p class="subtitle">
+        AI Powered Smart Complaint Categorization & Priority Prediction
+    </p>
+
+    <!-- ===============================
+         Complaint Form Section
+    =============================== -->
+    <div class="form-section">
+
+        <div class="form-group">
+            <label>Complaint Description</label>
+            <textarea id="complaint"
+                placeholder="Enter citizen complaint here..."></textarea>
+        </div>
+
+        <div class="form-group">
+            <label>Location Type</label>
+            <select id="location_type">
+                <option value="Highway">Highway</option>
+                <option value="Hospital Area">Hospital Area</option>
+                <option value="Market">Market</option>
+                <option value="Residential">Residential</option>
+                <option value="School Area">School Area</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label>Days Pending</label>
+            <input type="number" id="days"
+                placeholder="Enter number of days pending" min="0">
+        </div>
+
+        <button onclick="predict()">Analyze Complaint</button>
+
+    </div>
+
+    <!-- ===============================
+         Result Section
+    =============================== -->
+    <div class="result-card" id="result" style="display:none;">
+        <h2>Analysis Result</h2>
+
+        <p><strong>Predicted Category:</strong>
+            <span id="category"></span>
+        </p>
+
+        <p><strong>Priority Level:</strong>
+            <span id="priority"></span>
+        </p>
+
+        <!-- NEW: Severity Score -->
+        <p><strong>Severity Score:</strong>
+            <span id="severity"></span>
+        </p>
+
+        <!-- NEW: Assigned Department -->
+        <p><strong>Assigned Department:</strong>
+            <span id="department"></span>
+        </p>
+
+    </div>
+
+    <!-- ===============================
+         Analytics Dashboard Section
+    =============================== -->
+    <div class="stats-card" id="stats_section" style="display:none;">
+        <h2>Municipal Analytics Dashboard</h2>
+
+        <!-- Summary Stats -->
+        <div class="stats-grid">
+            <div class="stat-box">
+                <h3>Total Complaints</h3>
+                <p id="total">0</p>
+            </div>
+
+            <div class="stat-box">
+                <h3>Average Days Pending</h3>
+                <p id="avg_days">0</p>
+            </div>
+        </div>
+
+        <!-- Charts Section -->
+        <div class="chart-grid">
+
+            <div class="chart-box">
+                <h3>Category Distribution</h3>
+                <canvas id="categoryChart"></canvas>
+            </div>
+
+            <div class="chart-box">
+                <h3>Priority Distribution</h3>
+                <canvas id="priorityChart"></canvas>
+            </div>
+
+        </div>
+
+        <!-- Download Button -->
+        <button class="download-btn"
+            onclick="window.location.href='/download_report'">
+            Download Municipal Report
+        </button>
+    </div>
+
+</div>
+
+<!-- JS -->
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>
