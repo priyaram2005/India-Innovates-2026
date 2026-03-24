@@ -1,121 +1,237 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>CIVIC-AI Smart Complaint System</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CIVIC-AI — Smart Complaint Management System</title>
+    <meta name="description" content="AI-powered civic complaint categorization and priority prediction system for municipal authorities.">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
 
     <!-- CSS -->
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 
-    <!-- Chart.js CDN (Required for Dashboard Charts) -->
+    <!-- Chart.js CDN -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
 
+<!-- Loading Overlay -->
+<div class="loading-overlay" id="loadingOverlay" role="alert" aria-live="polite">
+    <div class="spinner"></div>
+    <span class="loading-text">Analyzing complaint…</span>
+</div>
 <div class="container">
 
-    <h1>CIVIC-AI</h1>
-    <p class="subtitle">
-        AI Powered Smart Complaint Categorization & Priority Prediction
-    </p>
-
-    <!-- ===============================
-         Complaint Form Section
-    =============================== -->
-    <div class="form-section">
-
-        <div class="form-group">
-            <label>Complaint Description</label>
-            <textarea id="complaint"
-                placeholder="Enter citizen complaint here..."></textarea>
+    <!-- ==============================
+         Hero Header
+    ============================== -->
+    <header class="hero-header" role="banner">
+        <div class="hero-logo">
+            <span class="logo-icon">🏛️</span> CIVIC-AI
         </div>
-
-        <div class="form-group">
-            <label>Location Type</label>
-            <select id="location_type">
-                <option value="Highway">Highway</option>
-                <option value="Hospital Area">Hospital Area</option>
-                <option value="Market">Market</option>
-                <option value="Residential">Residential</option>
-                <option value="School Area">School Area</option>
-            </select>
+        <p class="hero-tagline">
+            AI-Powered Smart Complaint Categorization &amp; Priority Prediction
+        </p>
+        <div class="hero-badge">
+            <span class="dot"></span>
+            System Online — ML Models Loaded
         </div>
+    </header>
 
-        <div class="form-group">
-            <label>Days Pending</label>
-            <input type="number" id="days"
-                placeholder="Enter number of days pending" min="0">
+    <!-- ==============================
+         Complaint Form
+    ============================== -->
+    <section class="glass-card form-section" aria-label="Complaint submission form">
+        <h2 class="section-title">
+            <span class="icon">📋</span> Submit a Complaint
+        </h2>
+
+        <form id="complaintForm" onsubmit="return false;">
+            <div class="form-group" id="group-complaint">
+                <label class="form-label" for="complaint">Complaint Description</label>
+                <textarea
+                    class="form-textarea"
+                    id="complaint"
+                    placeholder="Describe the civic issue in detail — e.g. 'Water pipe burst on MG Road causing flooding'"
+                    aria-required="true"
+                ></textarea>
+                <span class="error-msg">Please describe the complaint</span>
+            </div>
+
+            <div class="form-group" id="group-location">
+                <label class="form-label" for="location_type">Location Type</label>
+                <select class="form-select" id="location_type" aria-required="true">
+                    <option value="Residential">🏘️ Residential</option>
+                    <option value="Market">🛒 Market</option>
+                    <option value="Highway">🛣️ Highway</option>
+                    <option value="Hospital Area">🏥 Hospital Area</option>
+                    <option value="School Area">🏫 School Area</option>
+                </select>
+                <span class="error-msg">Please select a location type</span>
+            </div>
+
+            <div class="form-group" id="group-days">
+                <label class="form-label" for="days">Days Pending</label>
+                <input
+                    class="form-input"
+                    type="number"
+                    id="days"
+                    placeholder="How many days has this been pending?"
+                    min="0"
+                    aria-required="true"
+                >
+                <span class="error-msg">Please enter the number of days pending</span>
+            </div>
+
+            <button type="button" class="btn-primary" id="analyzeBtn" onclick="predict()">
+                <span>📝</span> Analyze Complaint
+            </button>
+        </form>
+    </section>
+
+    <!-- ==============================
+         Analysis Result
+    ============================== -->
+    <section class="glass-card result-section hidden" id="result" aria-label="Analysis results">
+        <h2 class="section-title">
+            <span class="icon">📊</span> Analysis Result
+        </h2>
+
+        <div class="result-grid">
+            <!-- Category Card -->
+            <div class="metric-card metric-card--category animate-in animate-in-1">
+                <div class="metric-label">
+                    <span class="metric-icon">🏷️</span> Category
+                </div>
+                <div class="metric-value" id="category">—</div>
+            </div>
+
+            <!-- Priority Card -->
+            <div class="metric-card metric-card--priority animate-in animate-in-2">
+                <div class="metric-label">
+                    <span class="metric-icon">🚨</span> Priority Level
+                </div>
+                <div class="metric-value">
+                    <span class="badge" id="priority">—</span>
+                </div>
+            </div>
+
+            <!-- Severity Card -->
+            <div class="metric-card metric-card--severity animate-in animate-in-3">
+                <div class="metric-label">
+                    <span class="metric-icon">📈</span> Severity Score
+                </div>
+                <div class="severity-meter">
+                    <span class="severity-score" id="severity">0</span>
+                    <span class="severity-max"> / 10</span>
+                    <div class="severity-bar-track">
+                        <div class="severity-bar-fill" id="severityBar"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Department Card -->
+            <div class="metric-card metric-card--department animate-in animate-in-4">
+                <div class="metric-label">
+                    <span class="metric-icon">🏢</span> Assigned Department
+                </div>
+                <div class="metric-value" id="department">—</div>
+            </div>
         </div>
+    </section>
 
-        <button onclick="predict()">Analyze Complaint</button>
-
-    </div>
-
-    <!-- ===============================
-         Result Section
-    =============================== -->
-    <div class="result-card" id="result" style="display:none;">
-        <h2>Analysis Result</h2>
-
-        <p><strong>Predicted Category:</strong>
-            <span id="category"></span>
-        </p>
-
-        <p><strong>Priority Level:</strong>
-            <span id="priority"></span>
-        </p>
-
-        <!-- NEW: Severity Score -->
-        <p><strong>Severity Score:</strong>
-            <span id="severity"></span>
-        </p>
-
-        <!-- NEW: Assigned Department -->
-        <p><strong>Assigned Department:</strong>
-            <span id="department"></span>
-        </p>
-
-    </div>
-
-    <!-- ===============================
-         Analytics Dashboard Section
-    =============================== -->
-    <div class="stats-card" id="stats_section" style="display:none;">
-        <h2>Municipal Analytics Dashboard</h2>
+    <!-- ==============================
+         Analytics Dashboard
+    ============================== -->
+    <section class="glass-card stats-section hidden" id="stats_section" aria-label="Analytics dashboard">
+        <h2 class="section-title">
+            <span class="icon">📉</span> Municipal Analytics Dashboard
+        </h2>
 
         <!-- Summary Stats -->
-        <div class="stats-grid">
+        <div class="stats-summary">
             <div class="stat-box">
-                <h3>Total Complaints</h3>
-                <p id="total">0</p>
+                <div class="stat-icon">📬</div>
+                <div class="stat-label">Total Complaints</div>
+                <div class="stat-value" id="total">0</div>
             </div>
-
             <div class="stat-box">
-                <h3>Average Days Pending</h3>
-                <p id="avg_days">0</p>
+                <div class="stat-icon">⏳</div>
+                <div class="stat-label">Avg. Days Pending</div>
+                <div class="stat-value" id="avg_days">0</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-icon">⚠️</div>
+                <div class="stat-label">Avg. Severity</div>
+                <div class="stat-value" id="avg_severity">0</div>
             </div>
         </div>
 
-        <!-- Charts Section -->
-        <div class="chart-grid">
-
+        <!-- Charts -->
+        <div class="charts-grid">
             <div class="chart-box">
                 <h3>Category Distribution</h3>
                 <canvas id="categoryChart"></canvas>
             </div>
-
             <div class="chart-box">
                 <h3>Priority Distribution</h3>
                 <canvas id="priorityChart"></canvas>
             </div>
-
         </div>
 
-        <!-- Download Button -->
-        <button class="download-btn"
-            onclick="window.location.href='/download_report'">
-            Download Municipal Report
-        </button>
-    </div>
+        <!-- Export Section -->
+        <div class="export-section">
+            <button class="btn-secondary" onclick="toggleExportPanel()">
+                <span>⚙️</span> Configure Export
+            </button>
+
+            <div id="exportPanel" class="export-panel hidden">
+                <h3>Filter Export Data</h3>
+                <p id="exportInfo" class="export-info">Loading available records...</p>
+
+                <div class="filter-controls">
+                    <button class="btn-text" onclick="toggleAllFilters(true)">Select All</button>
+                    <button class="btn-text" onclick="toggleAllFilters(false)">Deselect All</button>
+                </div>
+
+                <div class="filter-grid">
+                    <div class="filter-group">
+                        <h4>Category</h4>
+                        <div id="filterCategory" class="filter-options"></div>
+                    </div>
+                    <div class="filter-group">
+                        <h4>Priority</h4>
+                        <div id="filterPriority" class="filter-options"></div>
+                    </div>
+                    <div class="filter-group">
+                        <h4>Location</h4>
+                        <div id="filterLocation" class="filter-options"></div>
+                    </div>
+                </div>
+
+                <div class="export-actions">
+                    <button class="btn-primary1" onclick="downloadCombinedCSV()">
+                        <span>📄</span> Download Combined CSV
+                    </button>
+                    <button class="btn-secondary1" onclick="downloadSeparateCSVs()">
+                        <span>🗂️</span> Download Separate CSVs (ZIP)
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ==============================
+         Footer
+    ============================== -->
+    <footer class="footer" role="contentinfo">
+        <p>CIVIC-AI — India Innovates 2026</p>
+        <p class="footer-authors">Built by Priya Ram · Tanushree Behera · Saloni Kalokhe</p>
+    </footer>
 
 </div>
 
