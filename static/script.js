@@ -575,3 +575,102 @@ function toggleAllFilters(select) {
         cb.checked = select;
     });
 }
+
+const voiceBtn = document.getElementById('voiceBtn');
+const complaintInput = document.getElementById('complaint');
+
+const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+
+if (SpeechRecognition) {
+    const recognition = new SpeechRecognition();
+    recognition.continuous = false;
+    recognition.lang = 'en-IN'; // Indian English
+    recognition.interimResults = false;
+
+    voiceBtn.addEventListener('click', () => {
+        recognition.start();
+        voiceBtn.innerText = "🎙️ Listening...";
+    });
+
+    recognition.onresult = (event) => {
+        const transcript = event.results[0][0].transcript;
+        complaintInput.value = transcript;
+        voiceBtn.innerText = "🎤 Speak";
+    };
+
+    recognition.onerror = () => {
+        voiceBtn.innerText = "🎤 Speak";
+        alert("Voice recognition error");
+    };
+
+    recognition.onend = () => {
+        voiceBtn.innerText = "🎤 Speak";
+    };
+
+} else {
+    voiceBtn.style.display = "none"; // not supported
+}
+
+let model = null;
+
+// Load model
+async function loadModel() {
+    model = await mobilenet.load();
+    console.log("✅ AI Model Loaded");
+}
+
+// Call it once
+loadModel();
+
+document.getElementById('imageInput').addEventListener('change', async function () {
+    const file = this.files[0];
+    if (!file) return;
+
+    const resultBox = document.getElementById('imageResult');
+
+    // 🚨 WAIT until model is loaded
+    if (!model) {
+        resultBox.innerHTML = "⏳ Loading AI model, please wait...";
+        await loadModel();
+    }
+
+    const img = document.createElement('img');
+    img.src = URL.createObjectURL(file);
+    img.width = 200;
+
+    resultBox.innerHTML = "🤖 Analyzing image...<br>";
+    resultBox.appendChild(img);
+
+    img.onload = async () => {
+        try {
+            const predictions = await model.classify(img);
+
+            console.log("Predictions:", predictions);
+
+            let detected = "General Issue";
+            const top = predictions[0].className.toLowerCase();
+
+            if (top.includes("garbage") || top.includes("trash") || top.includes("plastic")) {
+                detected = "Garbage Issue";
+            } 
+            else if (top.includes("road") || top.includes("street")) {
+                detected = "Road Damage";
+            } 
+            else if (top.includes("water") || top.includes("pipe")) {
+                detected = "Water Leakage";
+            } 
+            else if (top.includes("light") || top.includes("lamp")) {
+                detected = "Street Light Issue";
+            }
+
+            resultBox.innerHTML += `<br>✅ Detected: <b>${detected}</b>`;
+            
+            document.getElementById('complaint').value =
+                `Issue detected from image: ${detected}`;
+
+        } catch (err) {
+            console.error(err);
+            resultBox.innerHTML += "<br>❌ Error analyzing image";
+        }
+    };
+});
