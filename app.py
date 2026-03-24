@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, jsonify, send_file
+from flask import Flask, render_template, request, jsonify, send_file, make_response
 import joblib
 import traceback
 import pandas as pd
@@ -222,34 +222,76 @@ def stats():
     })
 
 
-# Download Report Route
-@app.route("/download_report")
-def download_report():
+# ==========================================
+# CSV EXPORT ROUTES
+# ==========================================
 
+def filter_complaints(history, args):
+    """Helper to filter complaints based on query params"""
+    cats = args.get("categories", "").split(",") if args.get("categories") else []
+    pris = args.get("priorities", "").split(",") if args.get("priorities") else []
+    locs = args.get("locations", "").split(",") if args.get("locations") else []
+
+    filtered = []
+    for c in history:
+        if cats and c["category"] not in cats: continue
+        if pris and c["priority"] not in pris: continue
+        if locs and c["location"] not in locs: continue
+        filtered.append(c)
+    return filtered
+
+@app.route("/export/options")
+def get_export_options():
+    """Returns available unique values for the filter UI"""
     if not complaint_history:
-        return "No data available"
+        return jsonify({"total": 0})
 
     df = pd.DataFrame(complaint_history)
+    return jsonify({
+        "total": len(df),
+        "categories": df["category"].unique().tolist(),
+        "priorities": df["priority"].unique().tolist(),
+        "locations": df["location"].unique().tolist()
+    })
 
-    zip_filename = "department_reports.zip"
+@app.route("/export/combined")
+def export_combined_csv():
+    """Downloads a single CSV with all filtered records"""
+    filtered_data = filter_complaints(complaint_history, request.args)
+    
+    if not filtered_data:
+        return "No data matches filters", 404
+
+    df = pd.DataFrame(filtered_data)
+    csv_data = df.to_csv(index=False)
+    
+    response = make_response(csv_data)
+    response.headers["Content-Disposition"] = "attachment; filename=civic_ai_combined_export.csv"
+    response.headers["Content-Type"] = "text/csv"
+    return response
+
+@app.route("/export/separate")
+def export_separate_csvs():
+    """Downloads a ZIP of CSVs grouped by Category, using filtered records"""
+    filtered_data = filter_complaints(complaint_history, request.args)
+    
+    if not filtered_data:
+        return "No data matches filters", 404
+
+    df = pd.DataFrame(filtered_data)
+    zip_filename = "civic_ai_categorical_export.zip"
 
     with zipfile.ZipFile(zip_filename, 'w') as zipf:
-
         categories = df["category"].unique()
-
         for category in categories:
-
             category_df = df[df["category"] == category]
-
-            file_name = category.replace(" ", "_") + "_report.csv"
-
+            file_name = f"{category.replace(' ', '_')}_report.csv"
             category_df.to_csv(file_name, index=False)
-
             zipf.write(file_name)
-
             os.remove(file_name)
 
     return send_file(zip_filename, as_attachment=True)
+
 
 
 # Run App
