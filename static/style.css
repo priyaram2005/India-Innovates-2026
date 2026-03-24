@@ -319,6 +319,7 @@ body::after {
 
 .form-group {
     margin-bottom: var(--space-5);
+    margin-top: 20px;
 }
 
 .form-label {
@@ -1165,4 +1166,48 @@ canvas {
         font-size: 0.9rem;
         padding: var(--space-3) var(--space-5);
     }
+}
+
+#imageInput{
+    margin-top: -10px;
+    padding: 8px 18px;
+    border-radius: 50px;
+    border: none;
+    /* background: linear-gradient(135deg, #7b7aff, #500661); */
+    color: black;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+/* ===============================
+   VOICE BUTTON
+================================ */
+.voice-btn {
+    margin-top: -10px;
+    padding: 8px 18px;
+    border-radius: 50px;
+    border: none;
+    background: linear-gradient(135deg, #7b7aff, #500661);
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.voice-btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(109, 105, 106, 0.4);
+}
+
+/* Listening animation */
+.voice-btn.listening {
+    background: linear-gradient(135deg, #7b7aff, #500661);
+    animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.08); }
+    100% { transform: scale(1); }
 }
